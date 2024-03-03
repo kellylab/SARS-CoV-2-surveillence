@@ -1,0 +1,987 @@
+Amino acid replacement,Domain,Escape mutations details,Cumulative sequences in UK,Sequences over 28 days,Confidence,References
+N501Y,RBM,"mAb 1-20, mAb 1-57, mAb 10D12, mAb 10F9, mAb 1F9, mAb 2-36, mAb 24-1L, mAb 4-18, mAb 5-7, mAb A247, mAb Adintrevimab, mAb C2033, mAb C2139, mAb C2188, mAb C2209, mAb C2227, mAb C2319, mAb Cilgavimab, mAb class1, mAb class3, mAb COVA1-12, mAb COVA1-18, mAb COVA2-15, mAb COVA2-17, mAb Etesevimab, mAb H00S022, mAb P003_017, mAb P008_003, mAb P008_007, mAb P008_039, mAb P008_052, mAb P008_060, mAb P008_087, mAb P054_003, mAb P054_004, mAb P054_021, mAb P054_027, mAb S309, Plasma Wild Type, Vaccine mRNA",1431472,27149,high,"Ai et al. (2022)
+Chen et al. (2021b)
+Cho et al. (2021)
+FDA21
+Graham et al. (2021)
+Yi et al. (2021)
+Zhang et al. (2021)
+Rees-Spear et al. (2021)
+Wang et al. (2021)
+Shen et al. (2021)"
+T95I,NTD,"mAb 4-19, mAb 5-7, mAb Bamlanivimab, mAb Casirivimab, mAb Sotrovimab",1430386,19,lower,Ai et al. (2022)
+G142D,NTD,"mAb 2489, mAb 4-18, mAb 4-19, mAb 5-24, mAb 5-7, mAb S2M28, mAb S2X28, mAb S2X333",1429642,27224,medium,"Ai et al. (2022)
+McCallum et al. (2021)
+Suryadevara et al. (2021)"
+H655Y,S1_other,"mAb 1-20, mAb 2-15, mAb 2-36, mAb 2-7, mAb 5-7, mAb Adintrevimab, mAb Bamlanivimab, mAb Casirivimab, mAb Cilgavimab, mAb Etesevimab, mAb Imdevimab, mAb Sotrovimab, mAb Tixagevimab",1245010,27261,lower,Ai et al. (2022)
+Q954H,S2,"mAb 4-19, mAb 5-24",1241794,27257,lower,Ai et al. (2022)
+N969K,S2,"mAb 4-18, mAb 5-24, mAb Amubarvimab, mAb Etesevimab, mAb Imdevimab",1241766,27260,medium,"Ai et al. (2022)
+Wang et al. (2022)"
+D796Y,S2,"mAb 4-19, mAb 5-24, mAb Amubarvimab, mAb Bebtelovimab",1241306,27221,lower,Ai et al. (2022)
+S477N,RBM,"mAb 7B8, mAb P5C3, mAb SARS2-07, mAb SARS2-16, mAb SARS2-19, mAb SARS2-34, mAb SARS2-58",1205766,27254,medium,"Fenwick et al. (2021)
+Zhang et al. (2021)
+Liu et al. (2020)"
+G339D,RBD,"mAb 5-24, mAb Sotrovimab",1203987,26361,lower,Ai et al. (2022)
+E484A,RBM,"mAb 1-57, mAb 1B07, mAb 2-15, mAb 2B04, mAb Adintrevimab, mAb Amubarvimab, mAb Bamlanivimab, mAb Casirivimab, mAb Tixagevimab, Plasma Wild Type",1201149,27227,high,"Ai et al. (2022)
+Zhou et al. (2021)
+Liu et al. (2020)
+Greaney et al. (2021)"
+L452R,RBM,"mAb 24-12K, mAb 26-34L, mAb 28-15L, mAb 9G11, mAb A19-46.1, mAb bamlanivimab, mAb Bamlanivimab + Etesevimab, mAb BD-368-2 + BD-629, mAb BD-629, mAb Cilgavimab, mAb class2, mAb class2/3, mAb COV2-2096, mAb LY-COV555, mAb P2B-2F6, mAb regdanvimab, mAb S2D32, mAb S2H70, mAb S2N12, mAb S2N22, mAb S2X30, mAb S2X305, mAb S2X58, mAb S2X608, mAb S2X609, mAb S2X619, mAb SARS2-01, mAb SARS2-32, mAb X593, Plasma Wild Type",1192391,26454,high,"Du et al. (2020)
+FDA21
+FDA21b
+Yi et al. (2021)
+Zhang et al. (2021)
+Wang et al. (2021)
+Li et al. (2020)
+Greaney et al. (2020)
+Liu et al. (2020)
+Wang et al. (2021)
+McCallum et al. (2021)"
+S373P,RBD,"mAb 5-24, mAb Casirivimab, mAb Imdevimab",1177416,26533,medium,"Ai et al. (2022)
+Wang et al. (2022)"
+S375F,RBD,"mAb Etesevimab, mAb Imdevimab",1175202,26535,medium,"Wang et al. (2022)
+Zhou et al. (2021)"
+Q498R,RBM,"mAb 1-57, mAb Amubarvimab, mAb Etesevimab, mAb Imdevimab",1160333,27148,medium,"Ai et al. (2022)
+Zhou et al. (2021)"
+Y505H,RBM,mAb Etesevimab,1159091,27144,lower,Zhou et al. (2021)
+N764K,S2,mAb 4-19,1141875,27073,lower,Ai et al. (2022)
+Q493R,RBM,"mAb 1-20, mAb 2-15, mAb 2-7, mAb Amubarvimab, mAb B1-182.1, mAb Bamlanivimab, mAb Bamlanivimab + Etesevimab, mAb C144, mAb C1A-VH3-53B12, mAb C1A-VH3-53B3, mAb C1A-VH3-53C2, mAb C1A-VH3-53C4, mAb C1A-VH3-53F10, mAb C1A-VH3-53gI, mAb C1A-VH3-53gI*, mAb C1A-VH3-53H5, mAb C1A-VH3-53H6, mAb C2020, mAb C2033, mAb C2045, mAb C2047, mAb C2139, mAb C2175, mAb C2188, mAb C2209, mAb C2219, mAb C2221, mAb C2228, mAb Casirivimab, mAb CB6, mAb CB6/LY-CoV16, mAb class2, mAb Etesevimab, mAb Imdevimab, mAb LY-CoV555, mAb LY-COV555, mAb Regdanvimab, mAb REGN-CoV2-10933, mAb S2E12, mAb Tixagevimab, mAb VH3-53B38",1122812,481,medium,"Ai et al. (2022)
+Cho et al. (2021)
+FDA21
+FDA21b
+Zhou et al. (2021)
+Wang et al. (2021)
+Clark et al (2021)
+Starr et al. (2020)
+Wang et al. (2021)
+Rappazzo et al. (2021)
+Weisblum et al. (2020)"
+K417N,RBD,"mAb 10D12, mAb 1F9, mAb 24-1L, mAb 25-G7, mAb 26-40K, mAb 2H10, mAb A247, mAb C2020, mAb C2022, mAb C2033, mAb C2045, mAb C2047, mAb C2049, mAb C2110, mAb C2139, mAb C2188, mAb C2221, mAb C2319, mAb Casirivimab, mAb CB6, mAb CC12.1, mAb CC12.3, mAb class1, mAb COVA2-04, mAb COVA2-07, mAb COVOX-40, mAb Etesevimab, mAb P22A-1D1, mAb P2C-1F11, mAb P5A-1D2, mAb P5A-3C8, Vaccine mRNA",980383,26904,medium,"Ai et al. (2022)
+Cho et al. (2021)
+FDA21
+Francino-Urdaniz et al. (2021)
+Yi et al. (2021)
+Yuan et al. (2021)
+Zhang et al. (2021)
+Zhou et al. (2021)
+Zhang et al. 2021
+Chen et al.(2021)
+Starr et al. (2020)
+Wang et al. (2021)"
+N440K,RBM,"mAb 1-57, mAb 5-24, mAb ADG-1, mAb C135, mAb class3, mAb Imdevimab, mAb REGN10987",977605,26953,medium,"Ai et al. (2022)
+FDA21
+Wang et al. (2022)
+Starr et al. (2020)
+Wang et al. (2021)
+Rappazzo et al. (2021)
+Weisblum et al. (2020)"
+T547K,S1_other,"mAb 4-18, mAb 5-24, mAb Amubarvimab",678633,59,lower,Ai et al. (2022)
+N856K,S2,"mAb 4-19, mAb Etesevimab",678403,9,lower,Ai et al. (2022)
+L981F,S2,mAb 5-24,678073,9,lower,Ai et al. (2022)
+S371L,RBD,"mAb 1-20, mAb 1-57, mAb 2-15, mAb 2-7, mAb 5-7, mAb A19-46.1, mAb Adintrevimab, mAb Amubarvimab, mAb Etesevimab, mAb Imdevimab, mAb Sotrovimab, mAb Tixagevimab",634062,8,medium,"Ai et al. (2022)
+Wang et al. (2022)
+Zhou et al. (2021)"
+G496S,RBM,"mAb 1-57, mAb 2-15, mAb Amubarvimab, mAb Imdevimab",604367,7,medium,"Ai et al. (2022)
+Wang et al. (2022)"
+T19I,NTD,"mAb 1-20, mAb 2-7, mAb 4-18, mAb 4-19, mAb 5-24, mAb Amubarvimab",560111,26623,medium,"Ai et al. (2022)
+Iketani et al. (2022)"
+D405N,RBD,"mAb 2-36, mAb 4-18, mAb Casirivimab, mAb Etesevimab, mAb Imdevimab",559831,27233,medium,"Ai et al. (2022)
+Iketani et al. (2022)
+Zhou et al. (2022)"
+R408S,RBD,"mAb Casirivimab, mAb Imdevimab, mAb Sotrovimab",525995,22831,lower,Zhou et al. (2022)
+S371F,RBD,"mAb 1-20, mAb 1-57, mAb 10-40, mAb 2-15, mAb 2-36, mAb 2-7, mAb Adintrevimab, mAb Amubarvimab, mAb Bamlanivimab, mAb Casirivimab, mAb Cilgavimab, mAb DH1047, mAb Etesevimab, mAb Imdevimab, mAb Regdanvimab, mAb Romlusevimab, mAb S2X259, mAb Sotrovimab, mAb Tixagevimab",519888,23804,medium,"Ai et al. (2022)
+Iketani et al. (2022)
+Zhou et al. (2022)"
+G446S,RBM,"mAb 1-57, mAb 2-15, mAb 2-7, mAb 4-18, mAb 5-24, mAb A19-61.1, mAb Adintrevimab, mAb Amubarvimab, mAb Cilgavimab, mAb Imdevimab, mAb REGN10987",427514,42,medium,"Ai et al. (2022)
+Wang et al. (2022)
+Zhou et al. (2021)
+Starr et al. (2020)"
+R346K,RBD,"mAb C135, mAb Imdevimab",243888,18,medium,"Ai et al. (2022)
+Weisblum et al. (2020)"
+A222V,NTD,mAb mAb_53,229340,1,lower,Zhang et al. (2021)
+F486V,RBM,"mAb 2-36, mAb Casirivimab, mAb COV2-2196, mAb REGN10933, mAb SARS2-58, mAb SARS2-71, mAb Tixagevimab, Plasma Wild Type",79931,26733,high,"Copin et al. (2021)
+FDA21
+FDA21b
+Wang et al. (2021)
+Liu et al. (2020)
+Greaney et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)
+Baum et al. (2020)"
+L18F,NTD,"mAb mAb_53, mAb S2L28",61389,1,medium,"Zhang et al. (2021)
+McCallum et al. (2021)"
+P251L,NTD,mAb S2M28,6221,8,lower,McCallum et al. (2021)
+A688V,S2,Plasma Beta,5528,27,lower,Cele et al. (2021)
+K417T,RBD,"mAb 10D12, mAb 1F9, mAb 2H10, mAb A247, mAb CB6, mAb CC12.1, mAb CC12.3, mAb class1, mAb P22A-1D1, mAb P5A-1D2, mAb P5A-3C8",5070,31,medium,"Francino-Urdaniz et al. (2021)
+Zhang et al. (2021)
+Zhang et al. 2021
+Starr et al. (2020)
+Wang et al. (2021)"
+N439K,RBM,"mAb H00S022, mAb Imdevimab, mAb REGN-CoV2-10987, mAb several, Plasma Wild Type",4696,0,high,"FDA21
+Fenwick et al. (2021)
+Li et al. (2020)
+Clark et al (2021)
+Thomson et al. (2020)"
+S255F,NTD,mAb S2L28,4218,142,lower,McCallum et al. (2021)
+G446V,RBM,"mAb A19-61.1, mAb Bebtelovimab, mAb Cilgavimab, mAb Imdevimab, mAb REGN10987, mAb SARS2-02, Plasma Wild Type",3625,13,high,"Copin et al. (2021)
+FDA21
+FDA21b
+FDA22
+Wang et al. (2021)
+Li et al. (2020)
+Liu et al. (2020)
+Greaney et al. (2021)
+Starr et al. (2020)
+Rappazzo et al. (2021)"
+E484K,RBM,"mAb 1B07, mAb 2-15, mAb 24-12K, mAb 26-34L, mAb 28-15L, mAb 2B04, mAb 9G11, mAb A261-262, mAb ADI-56443, mAb Bamlanivimab, mAb Bamlanivimab + Etesevimab, mAb C121, mAb C144, mAb Casirivimab, mAb Casirivimab + Imdevimab, mAb CC6.29, mAb class2/3, mAb COV-2050, mAb COV2-2050, mAb COV2-2072, mAb COV2-2196, mAb COV2-2381, mAb COV2-3025, mAb COVA2-04, mAb COVA2-15, mAb COVA2-39, mAb COVOX-384, mAb COVOX-40, mAb CV05-163, mAb CV07-250, mAb CV07-270, mAb Etesevimab, mAb LY-CoV555, mAb REGN10933, mAb REGN10934, mAb S2E12, mAb SARS2-02, mAb SARS2-32, mAb SARS2-55, mAb Tixagevimab, mAb X593, Plasma Alpha, Plasma Wild Type, Vaccine BNT162b2, Vaccine mRNA, Vaccine Sputnik V",3322,0,high,"Annavajhala et al. (2021b)
+Annavajhala21b
+Chen et al. (2021b)
+FDA21
+FDA21b
+Francino-Urdaniz et al. (2021)
+Gottlieb et al. (2021)
+Greaney et al. (2021)
+Greaney et al. (2021)
+Ikegame et al. (2021)
+Jangra et al. (2021)
+Yi et al. (2021)
+Yuan et al. (2021)
+Zeng et al. (2021)
+Zhang et al. (2021)
+Zhou et al. (2021)
+Liu et al. (2020)
+Greaney et al. (2021)
+Collier et al. (2021)
+Chen et al.(2021)
+Andreano et al. (2020)
+Wang et al. (2021)
+Dong et al. (2021)
+Haslwanter et al
+Baum et al. (2020)
+Rappazzo et al. (2021)
+Weisblum et al. (2020)"
+R346T,RBD,mAb COV2-2130,2998,1219,lower,Dong et al. (2021)
+A831V,FP,"mAb B38, Plasma Wild Type",2629,7,lower,Li et al. (2020)
+D253G,NTD,mAb S2L28,1945,9,lower,McCallum et al. (2021)
+E484Q,RBM,"mAb 2-4, mAb 24-12K, mAb 26-34L, mAb Bamlanivimab, mAb Bamlanivimab + Etesevimab, mAb Casirivimab, Plasma Wild Type",1870,0,high,"Ding et al. (2021)
+FDA21
+Gottlieb et al. (2021)
+Greaney et al. (2021)
+Yi et al. (2021)
+Greaney et al. (2021)"
+H146Y,NTD,"mAb 4A8, mAb S2M28, mAb S2X28",1785,19,lower,McCallum et al. (2021)
+S494P,RBM,"mAb Bamlanivimab, mAb Casirivimab, mAb LY-CoV555, mAb mAb_53, mAb SARS2-01",1597,14,medium,"Copin et al. (2021)
+FDA21
+Gottlieb et al. (2021)
+Zhang et al. (2021)
+Liu et al. (2020)
+Rappazzo et al. (2021)"
+A27S,NTD,mAb 5-24,1564,0,lower,Ai et al. (2022)
+S477I,RBM,mAb SARS2-58,1456,0,lower,Liu et al. (2020)
+P479S,RBM,mAb SARS2-21,1276,3,lower,Liu et al. (2020)
+V483F,RBM,mAb SARS2-23,1209,2,lower,Liu et al. (2020)
+W152R,NTD,mAb ADI-56473,1191,29,lower,Haslwanter et al
+N148S,NTD,Plasma Wild Type,1168,0,lower,Weisblum et al. (2020)
+N354K,RBD,mAb h11B11,1157,1,lower,Du et al. (2021)
+N460S,RBM,"mAb CB6, mAb Etesevimab",988,18,medium,"FDA21
+Starr et al. (2020)"
+E484V,RBM,"mAb REGN10933, Plasma Wild Type",903,14,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+F490S,RBM,"mAb 24-12K, mAb 26-34L, mAb ADI-56443, mAb Bamlanivimab, mAb class2/3, mAb LY-CoV555, mAb REGN10934, mAb REGN10989, mAb SARS2-32, Plasma Wild Type",773,4,high,"FDA21
+Gottlieb et al. (2021)
+Yi et al. (2021)
+Liu et al. (2020)
+Wang et al. (2021)
+Haslwanter et al
+Baum et al. (2020)
+Rappazzo et al. (2021)"
+D796H,S2,Plasma Wild Type,728,2,lower,Kemp et al. (2021)
+N354D,RBD,"mAb h11B11, mAb mAb_53",715,5,medium,"Du et al. (2021)
+Zhang et al. (2021)"
+Y145D,NTD,mAb ADI-56473,681,0,lower,Haslwanter et al
+Q493L,RBM,mAb Etesevimab,676,0,lower,Yi et al. (2021)
+L455F,RBM,"mAb Casirivimab, mAb REGN10933",632,7,medium,"Copin et al. (2021)
+FDA21
+Starr et al. (2020)
+Baum et al. (2020)"
+R346S,RBD,"mAb 24-12K, mAb 25-C9, mAb 28-15L, mAb C135, mAb C2019, mAb C2029, mAb C2065, mAb COV2-2130",613,135,medium,"Cho et al. (2021)
+Yi et al. (2021)
+Dong et al. (2021)
+Weisblum et al. (2020)"
+P9L,SP,mAb S2X333,592,6,lower,McCallum et al. (2021)
+V367F,RBD,mAb h11B11,592,0,lower,Du et al. (2021)
+F490L,RBM,"mAb 261-262, mAb ADI-56443, mAb BD-368-2 + BD-629, mAb BD-629, mAb C121, mAb H4, mAb LY-COV555, mAb mAb_53, mAb P2B-2F6, mAb REGN10934, mAb REGN10989, mAb SARS2-66, mAb X593, Plasma Wild Type",526,2,high,"Du et al. (2020)
+Zhang et al. (2021)
+Wang et al. (2021)
+Li et al. (2020)
+Liu et al. (2020)
+Haslwanter et al
+Baum et al. (2020)
+Weisblum et al. (2020)"
+S13I,SP,"mAb 4A8, mAb S2L26, mAb S2L28, mAb S2L50, mAb S2M28, mAb S2X107, mAb S2X124, mAb S2X158, mAb S2X28, mAb S2X333",474,0,lower,McCallum et al. (2021)
+K444R,RBM,"mAb Cilgavimab, mAb COV2-2130, mAb SARS2-22, Plasma Wild Type",461,40,high,"FDA21b
+Liu et al. (2020)
+Dong et al. (2021)
+Weisblum et al. (2020)"
+T345S,RBD,"mAb 2H04, Plasma Wild Type",442,0,lower,Liu et al. (2020)
+P9S,SP,"mAb S2L28, mAb S2M28, mAb S2X28",438,2,lower,McCallum et al. (2021)
+T1009I,S2,"mAb Cilgavimab + Tixagevimab, mAb Tixagevimab",415,19,lower,FDA21b
+Q493E,RBM,"mAb Casirivimab, mAb REGN10933",387,0,medium,"FDA21
+Starr et al. (2020)"
+G476S,RBM,"mAb 28-8L, mAb Casirivimab, mAb SARS2-21",373,5,medium,"FDA21
+Yi et al. (2021)
+Liu et al. (2020)"
+L24S,NTD,"mAb 1-20, mAb Amubarvimab, mAb Imdevimab",362,0,lower,Iketani et al. (2022)
+K444N,RBM,"mAb Bebtelovimab, mAb COV2-2130, mAb Imdevimab, mAb REGN10987, mAb SARS2-21, mAb SARS2-22, Plasma Wild Type",339,60,high,"FDA21
+FDA22
+Liu et al. (2020)
+Starr et al. (2020)
+Dong et al. (2021)
+Rappazzo et al. (2021)
+Weisblum et al. (2020)"
+V483I,RBM,Plasma Wild Type,338,0,lower,Li et al. (2020)
+R408I,RBD,mAb 24-1L,323,0,lower,Yi et al. (2021)
+P479L,RBM,"mAb SARS2-34, mAb SARS2-71",318,3,lower,Liu et al. (2020)
+N440Y,RBM,mAb REGN10987,303,0,lower,Starr et al. (2020)
+A435S,RBD,mAb mAb_53,286,8,lower,Zhang et al. (2021)
+A475V,RBM,"mAb 157, mAb 2-4, mAb 247, mAb 26-40K, mAb B38, mAb C2022, mAb C2033, mAb C2045, mAb C2049, mAb C2110, mAb C2139, mAb C2188, mAb C2209, mAb C2221, mAb C2228, mAb C2319, mAb CA1, mAb CB6, mAb CC12.1, mAb Etesevimab, mAb P2C-1F11, Plasma Wild Type",284,1,high,"Cho et al. (2021)
+Ding et al. (2021)
+Yi et al. (2021)
+Li et al. (2020)
+Starr et al. (2020)"
+G252D,NTD,mAb S2L28,281,1,lower,McCallum et al. (2021)
+C15F,NTD,mAb S2M28,281,0,lower,McCallum et al. (2021)
+K147E,NTD,"mAb S2X28, mAb S2X333",278,25,lower,McCallum et al. (2021)
+W258R,NTD,"mAb S2L28, Plasma Wild Type",278,0,high,"Schmidt et al. (2021)
+McCallum et al. (2021)"
+G257S,NTD,mAb S2L28,270,17,lower,McCallum et al. (2021)
+S477R,RBM,"mAb SARS2-07, mAb SARS2-16, mAb SARS2-23, mAb SARS2-34",266,0,lower,Liu et al. (2020)
+L244S,NTD,mAb S2X28,222,1,lower,McCallum et al. (2021)
+R346I,RBD,"mAb Cilgavimab, mAb COV2-2130",208,71,medium,"FDA21b
+Dong et al. (2021)"
+F456L,RBM,mAb mAb_53,168,1,lower,Zhang et al. (2021)
+K458N,RBM,Plasma Wild Type,157,2,lower,Li et al. (2020)
+T478I,RBM,"mAb SARS2-19, mAb SARS2-21, mAb SARS2-71, Plasma Wild Type",157,1,high,"Li et al. (2020)
+Liu et al. (2020)"
+V445A,RBM,"mAb Bebtelovimab, mAb Casirivimab + Imdevimab, mAb Cilgavimab, mAb Imdevimab, mAb REGN10987",151,15,medium,"Copin et al. (2021)
+FDA21
+FDA21b
+FDA22
+Westendorf et al. (2021)
+Starr et al. (2020)
+Baum et al. (2020)"
+G446D,RBM,"mAb Bebtelovimab, mAb REGN10987, mAb SARS2-02, mAb SARS2-22, mAb SARS2-32, Plasma Wild Type",145,21,high,"FDA22
+Liu et al. (2020)
+Starr et al. (2020)"
+P499R,RBM,"mAb Bebtelovimab, mAb REGN10987",145,0,medium,"FDA22
+Westendorf et al. (2021)
+Starr et al. (2020)"
+K444T,RBM,"mAb A19-61.1, mAb Bebtelovimab, mAb Casirivimab + Imdevimab, mAb COV2-2130, mAb Imdevimab, mAb REGN10987",144,48,medium,"Copin et al. (2021)
+FDA21
+FDA22
+Wang et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+E340K,RBD,mAb Sotrovimab,132,5,medium,"Cathcart et al. (2021)
+FDA21c
+Yi et al. (2021)"
+R158G,NTD,mAb S2X28,130,5,lower,McCallum et al. (2021)
+K150R,NTD,Plasma Wild Type,125,0,lower,Weisblum et al. (2020)
+Y449S,RBM,mAb A19-46.1,121,1,lower,Wang et al. (2021)
+K444M,RBM,"mAb COV2-2130, mAb Imdevimab, mAb REGN10987",120,21,medium,"FDA21
+Starr et al. (2020)
+Dong et al. (2021)"
+N450D,RBM,"mAb Imdevimab, mAb REGN10934, mAb REGN10987, mAb SARS2-07, Plasma Wild Type",118,21,high,"FDA21
+Schmidt et al. (2021)
+Liu et al. (2020)
+Baum et al. (2020)"
+T478R,RBM,mAb CC6.29,112,4,lower,Francino-Urdaniz et al. (2021)
+S477G,RBM,"mAb SARS2-07, mAb SARS2-16, mAb SARS2-19, mAb SARS2-34, mAb SARS2-58, mAb SARS2-71, Plasma Wild Type",111,0,lower,Liu et al. (2020)
+N460K,RBM,"mAb CB6, mAb Etesevimab",110,21,medium,"FDA21
+Starr et al. (2020)"
+K356T,RBD,mAb Sotrovimab,109,7,lower,Cathcart et al. (2021)
+E484P,RBM,"Plasma Wild Type, Vaccine mRNA-1273",107,1,high,"Greaney et al. (2021)
+Greaney et al. (2021)"
+L455S,RBM,mAb REGN10933,105,4,lower,Starr et al. (2020)
+N501T,RBM,"mAb class3, mAb Etesevimab",96,0,medium,"FDA21
+Wang et al. (2021)"
+R346G,RBD,"mAb 2H04, mAb COV2-2130, mAb SARS2-01",95,0,medium,"Liu et al. (2020)
+Dong et al. (2021)"
+P499S,RBM,"mAb Bebtelovimab, mAb Imdevimab, mAb REGN10987",92,2,medium,"FDA21
+FDA22
+Westendorf et al. (2021)
+Starr et al. (2020)"
+D80N,NTD,mAb S2L28,91,0,lower,McCallum et al. (2021)
+P499L,RBM,mAb SARS2-07,86,0,lower,Liu et al. (2020)
+G504S,RBM,mAb ADG-2,85,0,lower,Rappazzo et al. (2021)
+S12P,SP,"mAb 4A8, mAb S2L26, mAb S2L28, mAb S2L50, mAb S2M28, mAb S2X107, mAb S2X124, mAb S2X158, mAb S2X28, mAb S2X333",79,0,medium,"McCallum et al. (2021)
+McCallum et al. (2021)"
+Y508H,RBD,"mAb class3, mAb H014",76,0,medium,"Li et al. (2020)
+Wang et al. (2021)"
+N460I,RBM,mAb CB6,75,20,lower,Starr et al. (2020)
+G446A,RBM,"mAb REGN10987, Plasma Wild Type",69,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+E484S,RBM,Plasma Wild Type,68,5,lower,Greaney et al. (2021)
+P337L,RBD,"mAb Imdevimab, mAb Sotrovimab",68,0,medium,"Cathcart et al. (2021)
+FDA21
+FDA21c"
+V445F,RBM,"mAb Bebtelovimab, mAb REGN10987",67,10,medium,"FDA22
+Starr et al. (2020)"
+N450K,RBM,"mAb 24-12K, mAb 28-15L, mAb Cilgavimab, mAb SARS2-32",65,0,medium,"FDA21b
+Yi et al. (2021)
+Liu et al. (2020)"
+R246G,NTD,"mAb S2M28, mAb S2X28",63,0,lower,McCallum et al. (2021)
+K150E,NTD,"mAb ADI-56473, Plasma Wild Type",62,5,high,"Haslwanter et al
+Weisblum et al. (2020)"
+G485S,RBM,mAb 28-8L,61,0,lower,Yi et al. (2021)
+W152C,NTD,"mAb 4A8, mAb S2L26, mAb S2L50, mAb S2X107, mAb S2X124, mAb S2X158, mAb S2X333",60,0,lower,McCallum et al. (2021)
+K378N,RBD,"mAb COV2-2082, mAb COV2-2094",60,0,lower,Greaney et al. (2020)
+Q493K,RBM,"mAb C121, mAb C144, mAb C1A-VH3-53B12, mAb C1A-VH3-53B3, mAb C1A-VH3-53C2, mAb C1A-VH3-53C4, mAb C1A-VH3-53F10, mAb C1A-VH3-53gI, mAb C1A-VH3-53gI*, mAb C1A-VH3-53H5, mAb Casirivimab, mAb CB6, mAb REGN-CoV2-10933, mAb REGN10933, mAb REGN10989, mAb VH3-53B38, Plasma Wild Type",59,0,high,"FDA21
+Clark et al (2021)
+Greaney et al. (2021)
+Starr et al. (2020)
+Baum et al. (2020)
+Weisblum et al. (2020)"
+V483A,RBM,"mAb Bamlanivimab, mAb BD-368-2 + BD-629, mAb BD-629, mAb mAb_53, mAb P2B-2F6, mAb X593",57,0,medium,"Du et al. (2020)
+FDA21
+Zhang et al. (2021)
+Li et al. (2020)"
+E484T,RBM,Plasma Wild Type,55,4,lower,Greaney et al. (2021)
+Q414R,RBD,mAb Tixagevimab,55,0,lower,FDA21b
+E340Q,RBD,mAb Sotrovimab,53,1,lower,Cathcart et al. (2021)
+E340A,RBD,"mAb Sotrovimab, mAb Vir-7832",52,1,medium,"Cathcart et al. (2021)
+FDA21c"
+A123T,NTD,mAb S2M28,52,0,lower,McCallum et al. (2021)
+D253Y,NTD,mAb S2L28,50,3,lower,McCallum et al. (2021)
+G142A,NTD,mAb 2489,48,0,lower,Suryadevara et al. (2021)
+E484G,RBM,"mAb 1B07, mAb ADI-56443, mAb class2, Plasma Wild Type",48,0,high,"Liu et al. (2020)
+Greaney et al. (2021)
+Wang et al. (2021)
+Haslwanter et al"
+S247R,NTD,mAb S2L28,44,0,lower,McCallum et al. (2021)
+F490V,RBM,mAb A19-46.1,42,0,lower,Wang et al. (2021)
+K417I,RBD,mAb CB6,41,0,lower,Starr et al. (2020)
+Y449D,RBM,Plasma Wild Type,41,0,lower,Greaney et al. (2021)
+N481D,RBM,mAb mAb_53,41,0,lower,Zhang et al. (2021)
+V341I,RBD,mAb mAb_53,39,1,lower,Zhang et al. (2021)
+L452W,RBM,mAb COV2-2096,37,0,lower,Greaney et al. (2020)
+E484D,RBM,"mAb 1B07, mAb ADI-56443, mAb Bamlanivimab, mAb Bamlanivimab + Etesevimab, mAb class2, mAb LY-CoV555, mAb SARS2-23, mAb SARS2-66, mAb Tixagevimab, Plasma Wild Type",37,0,high,"FDA21
+FDA21b
+Liu et al. (2020)
+Greaney et al. (2021)
+Wang et al. (2021)
+Haslwanter et al
+Rappazzo et al. (2021)"
+I472V,RBM,Plasma Wild Type,36,0,lower,Li et al. (2020)
+G504D,RBM,"mAb ADG-2, mAb class3, mAb SARS2-31",36,0,medium,"Liu et al. (2020)
+Wang et al. (2021)
+Rappazzo et al. (2021)"
+A123S,NTD,mAb 2489,35,0,lower,Suryadevara et al. (2021)
+P337T,RBD,mAb Sotrovimab,35,0,medium,"Cathcart et al. (2021)
+FDA21c"
+F486S,RBM,"mAb 2B04, mAb A23-58.1, mAb Casirivimab, mAb COV2-2196, mAb REGN10933, mAb SARS2-21, mAb Tixagevimab, Plasma Wild Type",33,1,high,"FDA21
+FDA21b
+Wang et al. (2021)
+Liu et al. (2020)
+Greaney et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+F486L,RBM,"mAb 25-G7, mAb 28-8L, mAb Casirivimab, mAb Etesevimab, mAb SARS2-21",33,0,medium,"Copin et al. (2021)
+FDA21
+Yi et al. (2021)
+Liu et al. (2020)"
+G446R,RBM,"mAb Bebtelovimab, mAb REGN10987, Plasma Wild Type",32,0,high,"FDA22
+Schmidt et al. (2021)
+Greaney et al. (2021)
+Starr et al. (2020)"
+D420N,RBD,"mAb CB6, mAb Etesevimab",31,3,medium,"FDA21
+Starr et al. (2020)"
+P139S,NTD,mAb S2L28,30,1,lower,McCallum et al. (2021)
+T19A,NTD,"mAb 4A8, mAb S2L28, mAb S2M28, mAb S2X28",30,0,lower,McCallum et al. (2021)
+P337R,RBD,mAb Sotrovimab,30,0,medium,"Cathcart et al. (2021)
+FDA21c"
+F342L,RBD,mAb mAb_53,30,0,lower,Zhang et al. (2021)
+G447V,RBM,mAb REGN10987,29,0,lower,Starr et al. (2020)
+R158S,NTD,mAb 2489,27,0,lower,Suryadevara et al. (2021)
+G504V,RBM,"mAb ADG-2, mAb CB6",27,0,medium,"Starr et al. (2020)
+Rappazzo et al. (2021)"
+F140S,NTD,"mAb 2767, mAb S2L28, mAb S2Xl28",25,0,medium,"McCallum et al. (2021)
+Suryadevara et al. (2021)"
+P384A,RBD,mAb COVA1-16,24,0,lower,Rees-Spear et al. (2021)
+R408K,RBD,mAb SARS2-31,24,0,lower,Liu et al. (2020)
+F486I,RBM,"mAb CC12.1, mAb CC6.29, mAb REGN10933, Plasma Wild Type",22,2,high,"Francino-Urdaniz et al. (2021)
+Greaney et al. (2021)
+Starr et al. (2020)"
+K417H,RBD,"mAb CB6, mAb REGN10933",22,1,lower,Starr et al. (2020)
+N460Y,RBM,"mAb CB6, mAb Etesevimab",21,2,medium,"FDA21
+Starr et al. (2020)"
+Y453F,RBM,"mAb 1F9, mAb Casirivimab, mAb REGN10933",19,0,medium,"FDA21
+Hoffmann et al. (2021)
+Yao et al. (2021)
+Zhang et al. (2021)
+Starr et al. (2020)
+Baum et al. (2020)
+Rappazzo et al. (2021)"
+P499T,RBM,mAb REGN10987,19,0,lower,Starr et al. (2020)
+N440T,RBM,mAb REGN10987,18,0,lower,Starr et al. (2020)
+F490R,RBM,Plasma Wild Type,18,0,lower,Greaney et al. (2021)
+C15S,NTD,"mAb 4A8, mAb S2L26, mAb S2L28, mAb S2L50, mAb S2M28, mAb S2X107, mAb S2X124, mAb S2X158, mAb S2X28, mAb S2X333",17,0,medium,"McCallum et al. (2021)
+McCallum et al. (2021)"
+Y489H,RBM,"mAb CB6, mAb REGN10933",16,0,lower,Starr et al. (2020)
+P499H,RBM,"mAb Bebtelovimab, mAb REGN10987",16,0,medium,"FDA22
+Starr et al. (2020)"
+N460H,RBM,"mAb CB6, mAb class1",15,11,medium,"Starr et al. (2020)
+Wang et al. (2021)"
+D253E,NTD,mAb S2L28,15,0,lower,McCallum et al. (2021)
+K444E,RBM,"mAb 2H04, mAb A19-61.1, mAb Cilgavimab, mAb COV2-2130, mAb REGN10987, mAb SARS2-21, mAb SARS2-22, Plasma Wild Type",14,2,high,"FDA21b
+Wang et al. (2021)
+Liu et al. (2020)
+Starr et al. (2020)
+Dong et al. (2021)"
+N448D,RBM,mAb REGN10987,14,1,lower,Starr et al. (2020)
+Q498H,RBM,mAb Imdevimab,14,0,lower,FDA21
+F486A,RBM,"mAb COV2-2196, mAb COV2-2832, mAb REGN10933, Plasma Wild Type",13,9,high,"Greaney et al. (2020)
+Greaney et al. (2021)
+Zost et al. (2020)
+Starr et al. (2020)
+Dong et al. (2021)"
+T22P,NTD,mAb S2L28,13,0,lower,McCallum et al. (2021)
+P337H,RBD,mAb Sotrovimab,13,0,medium,"Cathcart et al. (2021)
+FDA21c"
+G447S,RBM,"mAb REGN10987, Plasma Wild Type",13,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+C15Y,NTD,mAb S2X333,12,0,lower,McCallum et al. (2021)
+K77E,NTD,mAb S2L28,12,0,lower,McCallum et al. (2021)
+G142C,NTD,mAb S2X28,12,0,lower,McCallum et al. (2021)
+Y351H,RBD,mAb ADI-56443,12,0,lower,Haslwanter et al
+K417E,RBD,"mAb Casirivimab, mAb CB6, mAb class1, mAb COV2-2082, mAb P22A-1D1, mAb P2C-1F11, mAb P5A-1D2, mAb P5A-3C8, mAb REGN10933",12,0,medium,"FDA21
+Greaney et al. (2020)
+Zhang et al. 2021
+Starr et al. (2020)
+Wang et al. (2021)
+Baum et al. (2020)"
+V445L,RBM,mAb REGN10987,12,0,lower,Starr et al. (2020)
+G476D,RBM,"mAb Casirivimab + Imdevimab, mAb REGN10933, mAb SARS2-21, mAb SARS2-34, mAb SARS2-71",12,0,medium,"FDA21
+Liu et al. (2020)
+Starr et al. (2020)"
+C15G,NTD,Plasma Wild Type,11,0,lower,Schmidt et al. (2021)
+P9Q,SP,mAb S2M28,11,0,lower,McCallum et al. (2021)
+Y144C,NTD,mAb S2X28,10,1,lower,McCallum et al. (2021)
+K417S,RBD,mAb CB6,10,1,lower,Starr et al. (2020)
+E406D,RBD,mAb Casirivimab,10,0,lower,FDA21
+N440I,RBM,mAb REGN10987,10,0,lower,Starr et al. (2020)
+L141S,NTD,mAb S2X28,9,0,lower,McCallum et al. (2021)
+E340G,RBD,mAb Sotrovimab,9,0,medium,"Cathcart et al. (2021)
+FDA21c"
+C480R,RBM,mAb ADI-56443,9,0,lower,Haslwanter et al
+G485D,RBM,"mAb Casirivimab, Plasma Wild Type",9,0,high,"FDA21
+Greaney et al. (2021)"
+K147T,NTD,"mAb 4A8, mAb S2M28, mAb S2X28, mAb S2X333",8,1,lower,McCallum et al. (2021)
+A352D,RBD,"mAb ADI-56443, mAb SARS2-01",8,0,medium,"Liu et al. (2020)
+Haslwanter et al"
+N501H,RBM,mAb class1,8,0,lower,Wang et al. (2021)
+G504C,RBM,mAb CB6,8,0,lower,Starr et al. (2020)
+G504R,RBM,mAb ADG-2,8,0,lower,Rappazzo et al. (2021)
+F490I,RBM,mAb ADI-56443,7,1,lower,Haslwanter et al
+L441R,RBM,"mAb 2H04, Plasma Wild Type",7,0,lower,Liu et al. (2020)
+E340V,RBD,mAb Sotrovimab,6,1,lower,Cathcart et al. (2021)
+C15R,NTD,mAb S2M28,6,0,lower,McCallum et al. (2021)
+K150T,NTD,Plasma Wild Type,6,0,lower,Weisblum et al. (2020)
+K417R,RBD,mAb Casirivimab,6,0,lower,FDA21
+N440D,RBM,mAb REGN10987,6,0,lower,Starr et al. (2020)
+Y453H,RBM,mAb REGN10933,6,0,lower,Starr et al. (2020)
+C480S,RBM,mAb ADI-56443,6,0,lower,Haslwanter et al
+F490A,RBM,"mAb COV2-2096, Plasma Wild Type",6,0,high,"Greaney et al. (2020)
+Greaney et al. (2021)"
+N460T,RBM,"mAb CB6, mAb Etesevimab",5,0,medium,"FDA21
+Yi et al. (2021)
+Starr et al. (2020)"
+N74K,NTD,mAb COV2-2130,5,0,lower,Dong et al. (2021)
+C136S,NTD,mAb S2X333,5,0,lower,McCallum et al. (2021)
+G446I,RBM,"mAb REGN10987, Plasma Wild Type",5,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+G446T,RBM,"mAb REGN10987, Plasma Wild Type",5,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+E484L,RBM,"mAb REGN10933, Plasma Wild Type",5,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+F486G,RBM,"mAb CB6, mAb COV2-2196, mAb REGN10933, Plasma Wild Type",5,0,high,"Greaney et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+F486Y,RBM,mAb 1B07,5,0,lower,Liu et al. (2020)
+N487D,RBM,"mAb B1-182.1, mAb CB6, mAb COV2-2196, mAb REGN10933",5,0,medium,"Wang et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+Y489I,RBM,"mAb CB6, mAb REGN10933",5,0,lower,Starr et al. (2020)
+F490C,RBM,"mAb ADI-56443, mAb COV2-2096",5,0,medium,"Greaney et al. (2020)
+Haslwanter et al"
+K444Q,RBM,"mAb Bebtelovimab, mAb Cilgavimab, mAb COV2-2130, mAb Imdevimab, mAb REGN10934, mAb REGN10987, Plasma Wild Type",4,1,high,"FDA21
+FDA21b
+FDA22
+Westendorf et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)
+Baum et al. (2020)
+Weisblum et al. (2020)"
+N487T,RBM,"mAb CB6, mAb COV2-2196, mAb REGN10933",4,1,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+K458Q,RBM,mAb SARS2-66,4,0,lower,Liu et al. (2020)
+Y28C,NTD,mAb S2M28,4,0,lower,McCallum et al. (2021)
+K150Q,NTD,Plasma Wild Type,4,0,lower,Weisblum et al. (2020)
+D420A,RBD,mAb CB6,4,0,lower,Starr et al. (2020)
+G447C,RBM,mAb REGN10987,4,0,lower,Starr et al. (2020)
+G447D,RBM,"mAb REGN10987, Plasma Wild Type",4,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+N487R,RBM,"mAb A23-58.1, mAb B1-182.1, mAb CB6, mAb COV2-2196, mAb REGN10933",4,0,medium,"Wang et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+V503L,RBM,mAb class3,4,0,lower,Wang et al. (2021)
+G504L,RBM,mAb CB6,4,0,lower,Starr et al. (2020)
+K147Q,NTD,"mAb S2M28, mAb S2X28",3,1,lower,McCallum et al. (2021)
+P139Q,NTD,mAb S2X28,3,0,lower,McCallum et al. (2021)
+Y144N,NTD,mAb S2X28,3,0,lower,McCallum et al. (2021)
+Y473S,RBM,mAb CB6,3,0,lower,Starr et al. (2020)
+A475E,RBM,mAb CB6,3,0,lower,Starr et al. (2020)
+S494R,RBM,"mAb COV2-2096, mAb LY-COV555, Plasma Wild Type",3,0,high,"Wang et al. (2021)
+Greaney et al. (2020)
+Greaney et al. (2021)"
+P499G,RBM,mAb REGN10987,3,0,lower,Starr et al. (2020)
+G502R,RBM,mAb ADG-2,3,0,lower,Rappazzo et al. (2021)
+G502V,RBM,mAb ADG-2,3,0,lower,Rappazzo et al. (2021)
+V503T,RBM,Plasma Wild Type,3,0,lower,Greaney et al. (2021)
+G504F,RBM,mAb CB6,3,0,lower,Starr et al. (2020)
+Y505C,RBM,mAb ADG-2,3,0,lower,Rappazzo et al. (2021)
+Y505N,RBM,mAb ADG-2,3,0,lower,Rappazzo et al. (2021)
+E990A,S2,"mAb Cilgavimab + Tixagevimab, mAb Tixagevimab",3,0,lower,FDA21b
+A243D,NTD,Plasma Wild Type,2,0,lower,Schmidt et al. (2021)
+Y369N,RBD,mAb COV2-2677,2,0,lower,Greaney et al. (2020)
+K378E,RBD,mAb SARS2-31,2,0,lower,Liu et al. (2020)
+K417M,RBD,mAb CB6,2,0,lower,Starr et al. (2020)
+K417Y,RBD,"mAb CB6, mAb REGN10933",2,0,lower,Starr et al. (2020)
+N439Y,RBM,mAb REGN10987,2,0,lower,Starr et al. (2020)
+N440F,RBM,mAb REGN10987,2,0,lower,Starr et al. (2020)
+G447F,RBM,"mAb REGN10987, Plasma Wild Type",2,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+N450S,RBM,mAb A19-46.1,2,0,lower,Wang et al. (2021)
+G476E,RBM,"mAb CB6, mAb REGN10933",2,0,lower,Starr et al. (2020)
+V483G,RBM,mAb SARS2-23,2,0,lower,Liu et al. (2020)
+V483T,RBM,Plasma Wild Type,2,0,lower,Greaney et al. (2021)
+N487K,RBM,"mAb CB6, mAb COV2-2196, mAb REGN10933",2,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+C488S,RBM,mAb ADI-56443,2,0,lower,Haslwanter et al
+C488Y,RBM,mAb ADI-56443,2,0,lower,Haslwanter et al
+P499D,RBM,"mAb REGN10987, Plasma Wild Type",2,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+P499Q,RBM,mAb REGN10987,2,0,lower,Starr et al. (2020)
+P499Y,RBM,mAb REGN10987,2,0,lower,Starr et al. (2020)
+N501R,RBM,mAb CB6,2,0,lower,Starr et al. (2020)
+G504K,RBM,mAb CB6,2,0,lower,Starr et al. (2020)
+H519P,RBD,Plasma Wild Type,2,0,lower,Li et al. (2020)
+C136G,NTD,mAb S2X28,1,0,lower,McCallum et al. (2021)
+C136Y,NTD,"mAb 4A8, mAb S2L26, mAb S2L28, mAb S2L50, mAb S2M28, mAb S2X107, mAb S2X124, mAb S2X158, mAb S2X28, mAb S2X333",1,0,medium,"McCallum et al. (2021)
+McCallum et al. (2021)"
+Y144A,NTD,"mAb 2489, mAb 2676",1,0,lower,Suryadevara et al. (2021)
+T345N,RBD,mAb 2H04,1,0,lower,Liu et al. (2020)
+Y351C,RBD,mAb ADI-56443,1,0,lower,Haslwanter et al
+W353R,RBD,mAb ADI-56443,1,0,lower,Haslwanter et al
+N439S,RBM,mAb REGN10987,1,0,lower,Starr et al. (2020)
+V445G,RBM,"mAb Bebtelovimab, mAb REGN10987, mAb SARS2-22, Plasma Wild Type",1,0,high,"FDA22
+Liu et al. (2020)
+Greaney et al. (2021)
+Starr et al. (2020)"
+G446F,RBM,mAb REGN10987,1,0,lower,Starr et al. (2020)
+N448K,RBM,mAb REGN10987,1,0,lower,Starr et al. (2020)
+N450T,RBM,"mAb ADI-56443, mAb REGN10987, Plasma Wild Type",1,0,high,"Greaney et al. (2021)
+Starr et al. (2020)
+Haslwanter et al"
+L455W,RBM,"mAb CB6, mAb REGN10933",1,0,lower,Starr et al. (2020)
+F456S,RBM,mAb class1,1,0,lower,Wang et al. (2021)
+F456T,RBM,"mAb CB6, Plasma Wild Type",1,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+F456V,RBM,"mAb CB6, mAb class1, mAb unclass, Plasma Wild Type",1,0,high,"Greaney et al. (2021)
+Starr et al. (2020)
+Wang et al. (2021)"
+I472S,RBM,mAb CB6,1,0,lower,Starr et al. (2020)
+Y473N,RBM,mAb CB6,1,0,lower,Starr et al. (2020)
+A475D,RBM,mAb CB6,1,0,lower,Starr et al. (2020)
+A475F,RBM,mAb CB6,1,0,lower,Starr et al. (2020)
+A475I,RBM,mAb CB6,1,0,lower,Starr et al. (2020)
+A475K,RBM,"mAb CB6, mAb REGN10933",1,0,lower,Starr et al. (2020)
+A475Q,RBM,mAb CB6,1,0,lower,Starr et al. (2020)
+A475Y,RBM,mAb CB6,1,0,lower,Starr et al. (2020)
+G476T,RBM,mAb CB6,1,0,lower,Starr et al. (2020)
+F486H,RBM,"mAb COV2-2196, mAb REGN10933",1,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+F486P,RBM,"mAb COV2-2196, mAb COV2-2832, mAb REGN10933",1,0,medium,"Greaney et al. (2020)
+Starr et al. (2020)
+Dong et al. (2021)"
+F486W,RBM,mAb COV2-2196,1,0,lower,Dong et al. (2021)
+N487E,RBM,"mAb CB6, mAb COV2-2196, mAb REGN10933",1,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+N487G,RBM,mAb CB6,1,0,lower,Starr et al. (2020)
+N487H,RBM,"mAb CB6, mAb COV2-2196",1,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+N487S,RBM,mAb CB6,1,0,lower,Starr et al. (2020)
+Y489L,RBM,"mAb CB6, mAb REGN10933",1,0,lower,Starr et al. (2020)
+F490G,RBM,Plasma Wild Type,1,0,lower,Greaney et al. (2021)
+P499N,RBM,mAb REGN10987,1,0,lower,Starr et al. (2020)
+G502E,RBM,mAb ADG-2,1,0,lower,Rappazzo et al. (2021)
+G504I,RBM,mAb CB6,1,0,lower,Starr et al. (2020)
+P507R,RBM,mAb ADI-56443,1,0,lower,Haslwanter et al
+T393P,RBD,mAb mAb_53,0,0,lower,Zhang et al. (2021)
+S443Y,RBM,"mAb REGN10987, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+C15W,NTD,mAb S2X28,0,0,lower,McCallum et al. (2021)
+F140C,NTD,mAb S2X333,0,0,lower,McCallum et al. (2021)
+F140X,NTD,Plasma Wild Type,0,0,lower,Andreano et al. (2020)
+Y144X,NTD,"mAb 4A8, mAb S2M28, mAb S2X28, mAb S2X333, Plasma Wild Type",0,0,high,"Li et al. (2020)
+McCallum et al. (2021)
+McCarthy et al. (2020)"
+Y145X,NTD,"mAb 4A8, Plasma Wild Type",0,0,high,"Li et al. (2020)
+McCarthy et al. (2020)"
+H146X,NTD,mAb 4A8,0,0,lower,McCarthy et al. (2020)
+N149Q,NTD,mAb S2X28,0,0,lower,McCallum et al. (2021)
+S151P,NTD,Plasma Wild Type,0,0,lower,Weisblum et al. (2020)
+F157A,NTD,mAb 2489,0,0,lower,Suryadevara et al. (2021)
+N164A,NTD,mAb 2489,0,0,lower,Suryadevara et al. (2021)
+N211X,NTD,mAb Imdevimab,0,0,lower,Wang et al. (2022)
+N234Q,NTD,mAb mAb_53,0,0,lower,Zhang et al. (2021)
+L244P,NTD,Plasma Wild Type,0,0,lower,Schmidt et al. (2021)
+R246A,NTD,"mAb 4A8, mAb S2L28, mAb S2M28, mAb S2X28, mAb S2X333",0,0,lower,McCallum et al. (2021)
+G252C,NTD,mAb S2M28,0,0,lower,McCallum et al. (2021)
+T345A,RBD,mAb 2H04,0,0,lower,Liu et al. (2020)
+R346A,RBD,mAb COV2-2130,0,0,lower,Dong et al. (2021)
+R346C,RBD,mAb COV2-2130,0,0,lower,Dong et al. (2021)
+R346D,RBD,mAb COV2-2130,0,0,lower,Dong et al. (2021)
+R346E,RBD,mAb COV2-2130,0,0,lower,Dong et al. (2021)
+R346F,RBD,mAb COV2-2130,0,0,lower,Dong et al. (2021)
+R346L,RBD,mAb COV2-2130,0,0,lower,Dong et al. (2021)
+R346M,RBD,"mAb C135, mAb COV2-2130",0,0,medium,"Dong et al. (2021)
+Weisblum et al. (2020)"
+R346N,RBD,mAb COV2-2130,0,0,lower,Dong et al. (2021)
+R346Q,RBD,mAb COV2-2130,0,0,lower,Dong et al. (2021)
+R346V,RBD,mAb COV2-2130,0,0,lower,Dong et al. (2021)
+R346W,RBD,mAb COV2-2130,0,0,lower,Dong et al. (2021)
+R346Y,RBD,mAb COV2-2130,0,0,lower,Dong et al. (2021)
+S349N,RBD,mAb mAb_53,0,0,lower,Zhang et al. (2021)
+Y351N,RBD,mAb ADI-56443,0,0,lower,Haslwanter et al
+N360I,RBD,mAb ADI-56443,0,0,lower,Haslwanter et al
+L368S,RBD,mAb ADI-56443,0,0,lower,Haslwanter et al
+Y369P,RBD,mAb COV2-2677,0,0,lower,Greaney et al. (2020)
+F374D,RBD,mAb COV2-2677,0,0,lower,Greaney et al. (2020)
+F374N,RBD,mAb COV2-2677,0,0,lower,Greaney et al. (2020)
+T376D,RBD,mAb COV2-2082,0,0,lower,Greaney et al. (2020)
+T376F,RBD,mAb COV2-2082,0,0,lower,Greaney et al. (2020)
+F377K,RBD,mAb Sotrovimab,0,0,lower,Cathcart et al. (2021)
+K378A,RBD,mAb COV2-2677,0,0,lower,Greaney et al. (2020)
+K378D,RBD,"mAb COV2-2094, mAb COV2-2677",0,0,lower,Greaney et al. (2020)
+K378L,RBD,mAb COV2-2082,0,0,lower,Greaney et al. (2020)
+K378Q,RBD,mAb SARS2-31,0,0,lower,Liu et al. (2020)
+K378S,RBD,mAb COV2-2677,0,0,lower,Greaney et al. (2020)
+K378T,RBD,"mAb COV2-2082, mAb COV2-2677",0,0,lower,Greaney et al. (2020)
+K378Y,RBD,mAb COV2-2082,0,0,lower,Greaney et al. (2020)
+P384D,RBD,mAb COV2-2677,0,0,lower,Greaney et al. (2020)
+P384G,RBD,mAb COV2-2677,0,0,lower,Greaney et al. (2020)
+P384K,RBD,mAb COV2-2677,0,0,lower,Greaney et al. (2020)
+P384Y,RBD,mAb COV2-2677,0,0,lower,Greaney et al. (2020)
+D405K,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+D405R,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+E406W,RBD,"mAb REGN10933+REGN10987, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+R408D,RBD,mAb COV2-2082,0,0,lower,Greaney et al. (2020)
+Q414E,RBD,"mAb mAb_53, Plasma Wild Type",0,0,high,"Zhang et al. (2021)
+Li et al. (2020)"
+T415G,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+K417A,RBD,"mAb CB6, mAb P22A-1D1, mAb P5A-1D2, mAb P5A-3C8",0,0,medium,"Zhang et al. 2021
+Starr et al. (2020)"
+K417C,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+K417D,RBD,"mAb CB6, mAb COV2-2082, mAb REGN10933",0,0,medium,"Greaney et al. (2020)
+Starr et al. (2020)"
+K417F,RBD,"mAb CB6, mAb COV2-2082, mAb REGN10933",0,0,medium,"Greaney et al. (2020)
+Starr et al. (2020)"
+K417G,RBD,"mAb CB6, mAb COV2-2082",0,0,medium,"Greaney et al. (2020)
+Starr et al. (2020)"
+K417L,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+K417P,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+K417Q,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+K417V,RBD,"mAb CB6, mAb COVA2-02, mAb COVA2-07, mAb several, Plasma Wild Type",0,0,high,"Thomson et al. (2020)
+Starr et al. (2020)
+Rees-Spear et al. (2021)"
+K417W,RBD,"mAb CB6, mAb REGN10933",0,0,lower,Starr et al. (2020)
+A419G,RBD,mAb ADI-56443,0,0,lower,Haslwanter et al
+D420E,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+D420K,RBD,"mAb CB6, mAb CC12.1, mAb CC12.3",0,0,medium,"Francino-Urdaniz et al. (2021)
+Starr et al. (2020)"
+D420M,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+D420Q,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+D420R,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+D420S,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+Y421L,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+Y421W,RBD,mAb CB6,0,0,lower,Starr et al. (2020)
+N432Q,RBD,"mAb 157, mAb 247, mAb B38, mAb CA1, mAb CB6, mAb P2C-1F11",0,0,lower,Li et al. (2020)
+V433A,RBD,mAb ADI-56443,0,0,lower,Haslwanter et al
+A435W,RBD,mAb COV2-2094,0,0,lower,Greaney et al. (2020)
+W436R,RBD,mAb mAb_53,0,0,lower,Zhang et al. (2021)
+N439T,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+N439V,RBM,mAb Imdevimab,0,0,lower,FDA21
+N440E,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+N440H,RBM,"mAb class1, mAb class1/2",0,0,lower,Wang et al. (2021)
+N440L,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+N440M,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+N440V,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+S443N,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+S443Q,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+K444A,RBM,"mAb COV2-2130, mAb REGN10987",0,0,medium,"Zost et al. (2020)
+Starr et al. (2020)
+Dong et al. (2021)"
+K444C,RBM,"mAb COV2-2130, mAb REGN10987",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+K444D,RBM,"mAb COV2-2130, mAb REGN10987",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+K444F,RBM,"mAb COV2-2130, mAb REGN10987",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+K444G,RBM,"mAb COV2-2130, mAb REGN10987, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+K444H,RBM,"mAb COV2-2130, mAb REGN10987",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+K444I,RBM,"mAb COV2-2130, mAb REGN10987",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+K444L,RBM,"mAb COV2-2130, mAb Imdevimab, mAb REGN10987",0,0,medium,"FDA21
+Starr et al. (2020)
+Dong et al. (2021)"
+K444P,RBM,"mAb COV2-2130, mAb REGN10987, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+K444S,RBM,"mAb COV2-2130, mAb REGN10987",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+K444V,RBM,"mAb COV2-2130, mAb REGN10987",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+K444W,RBM,"mAb COV2-2130, mAb REGN10987",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+K444Y,RBM,"mAb COV2-2130, mAb REGN10987",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+V445C,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+V445D,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+V445E,RBM,"mAb REGN10987, Plasma Wild Type",0,0,high,"Starr et al. (2020)
+Weisblum et al. (2020)"
+V445H,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+V445K,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+V445M,RBM,"mAb REGN10987, Plasma Wild Type",0,0,high,"Schmidt et al. (2021)
+Starr et al. (2020)"
+V445N,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+V445P,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+V445Q,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+V445R,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+V445S,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+V445T,RBM,"mAb Casirivimab, mAb REGN10987",0,0,medium,"FDA21
+Starr et al. (2020)"
+V445W,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+V445Y,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G446C,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G446E,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G446H,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G446K,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G446L,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G446M,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G446P,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G446Q,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G446W,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G446Y,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G447A,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+G447E,RBM,"mAb REGN10987, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+G447H,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G447I,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G447K,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+G447L,RBM,"mAb REGN10987, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+G447M,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G447N,RBM,"mAb REGN10987, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+G447P,RBM,"mAb REGN10987, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+G447Q,RBM,"mAb REGN10987, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+G447R,RBM,mAb COV2-2130,0,0,lower,Zost et al. (2020)
+G447T,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+G447Y,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+N448C,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+N448E,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+N448G,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+N448H,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+N448P,RBM,"mAb REGN10987, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+N448Q,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+N448R,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+N448V,RBM,mAb REGN10987,0,0,lower,Starr et al. (2020)
+Y449C,RBM,mAb ADI-56443,0,0,lower,Haslwanter et al
+Y449E,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+Y449K,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+Y449P,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+Y449R,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+N450P,RBM,"mAb REGN10987, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+N450Y,RBM,"mAb A19-46.1, mAb SARS2-32, Plasma Wild Type",0,0,high,"Wang et al. (2021)
+Liu et al. (2020)"
+L452K,RBM,mAb COVA2-29,0,0,lower,Rees-Spear et al. (2021)
+L452T,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+L452Y,RBM,mAb COV2-2096,0,0,lower,Greaney et al. (2020)
+Y453A,RBM,mAb REGN10933,0,0,lower,Starr et al. (2020)
+Y453K,RBM,mAb REGN10933,0,0,lower,Starr et al. (2020)
+Y453M,RBM,mAb REGN10933,0,0,lower,Starr et al. (2020)
+Y453R,RBM,mAb REGN10933,0,0,lower,Starr et al. (2020)
+Y453V,RBM,mAb REGN10933,0,0,lower,Starr et al. (2020)
+L455A,RBM,mAb REGN10933,0,0,lower,Starr et al. (2020)
+L455C,RBM,mAb REGN10933,0,0,lower,Starr et al. (2020)
+L455E,RBM,"mAb CB6, mAb REGN10933",0,0,lower,Starr et al. (2020)
+L455G,RBM,"mAb CB6, mAb REGN10933",0,0,lower,Starr et al. (2020)
+L455N,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+L455R,RBM,"mAb CB6, mAb REGN10933, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+L455Y,RBM,mAb REGN10933,0,0,lower,Starr et al. (2020)
+F456A,RBM,"mAb CB6, mAb REGN10933, Plasma Wild Type, Vaccine mRNA-1273",0,0,high,"Greaney et al. (2021)
+Greaney et al. (2021)
+Starr et al. (2020)"
+F456C,RBM,"mAb CB6, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+F456E,RBM,mAb mAb_53,0,0,lower,Zhang et al. (2021)
+F456G,RBM,"mAb CB6, mAb REGN10933, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+F456H,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+F456I,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+F456K,RBM,"mAb CB6, mAb REGN10933, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+F456Q,RBM,"mAb CB6, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+F456R,RBM,"mAb CB6, Plasma Wild Type",0,0,high,"Wang et al. (2021)
+Greaney et al. (2021)
+Starr et al. (2020)"
+N460A,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+N460C,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+N460E,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+N460F,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+N460L,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+N460M,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+N460P,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+N460Q,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+N460R,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+N460V,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+D467H,RBM,mAb ADI-56443,0,0,lower,Haslwanter et al
+I472C,RBM,"mAb CB6, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+I472D,RBM,"mAb CB6, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+I472E,RBM,"mAb CB6, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+I472G,RBM,"mAb CB6, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+I472K,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+I472N,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+I472W,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+Y473A,RBM,"mAb CB6, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+Y473C,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+Y473E,RBM,"mAb CB6, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+Y473I,RBM,"mAb CB6, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+Y473L,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+Y473M,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+Y473Q,RBM,"mAb CB6, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+Y473T,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+Y473V,RBM,"mAb CB6, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+Q474P,RBM,mAb SARS2-34,0,0,lower,Liu et al. (2020)
+A475M,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+A475N,RBM,"mAb CB6, mAb REGN10933",0,0,lower,Starr et al. (2020)
+A475R,RBM,mAb CB6,0,0,medium,"Wang et al. (2021)
+Starr et al. (2020)"
+G476K,RBM,"mAb CB6, mAb REGN10933",0,0,lower,Starr et al. (2020)
+G476R,RBM,"mAb CB6, mAb REGN10933",0,0,lower,Starr et al. (2020)
+T478P,RBM,mAb SARS2-71,0,0,lower,Liu et al. (2020)
+E484C,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+E484F,RBM,"mAb REGN10933, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+E484H,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+E484I,RBM,"mAb COV2-2050, mAb REGN10933, Plasma Wild Type",0,0,high,"Greaney et al. (2020)
+Greaney et al. (2021)
+Starr et al. (2020)"
+E484M,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+E484W,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+E484Y,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+G485E,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+G485P,RBM,"mAb CB6, mAb REGN10933, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+F486C,RBM,"mAb CB6, mAb COV2-2196, mAb REGN10933",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+F486D,RBM,"mAb COV2-2196, mAb COV2-2832, mAb REGN10933, Plasma Wild Type",0,0,high,"Greaney et al. (2020)
+Greaney et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+F486E,RBM,"mAb COV2-2196, mAb REGN10933, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+F486K,RBM,"mAb CB6, mAb COV2-2196, mAb REGN10933, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+F486l,RBM,mAb B1-182.1,0,0,lower,Wang et al. (2021)
+F486N,RBM,"mAb COV2-2196, mAb REGN10933, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+F486Q,RBM,"mAb COV2-2196, mAb REGN10933, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+F486R,RBM,"mAb A23-58.1, mAb B1-182.1, mAb CB6, mAb COV2-2196, mAb LY-COV555, mAb REGN10933",0,0,medium,"Wang et al. (2021)
+Wang et al. (2021)
+Wang et al. (2021)
+Wang et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+F486T,RBM,"mAb COV2-2196, mAb REGN10933, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)
+Dong et al. (2021)"
+N487A,RBM,"mAb CB6, mAb COV2-2165, mAb COV2-2196",0,0,medium,"Zost et al. (2020)
+Starr et al. (2020)
+Dong et al. (2021)"
+N487F,RBM,"mAb CB6, mAb COV2-2196, mAb REGN10933",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+N487L,RBM,"mAb CB6, mAb COV2-2196, mAb REGN10933",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+N487M,RBM,"mAb COV2-2196, mAb REGN10933",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+N487Q,RBM,"mAb CB6, mAb COV2-2196",0,0,medium,"Starr et al. (2020)
+Dong et al. (2021)"
+N487Y,RBM,mAb COV2-2196,0,0,lower,Dong et al. (2021)
+Y489M,RBM,"mAb CB6, mAb REGN10933",0,0,lower,Starr et al. (2020)
+Y489Q,RBM,"mAb CB6, mAb REGN10933, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+Y489R,RBM,"mAb A23-58.1, mAb B1-182.1, mAb CB6, mAb REGN10933",0,0,lower,Wang et al. (2021)
+Y489V,RBM,"mAb CB6, mAb REGN10933",0,0,lower,Starr et al. (2020)
+Y489W,RBM,"mAb CB6, mAb REGN10933",0,0,lower,Starr et al. (2020)
+F490D,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+F490E,RBM,"mAb COV2-2096, Plasma Wild Type",0,0,high,"Greaney et al. (2020)
+Greaney et al. (2021)"
+F490K,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+F490N,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+F490P,RBM,"mAb 2-36, mAb COV2-2096, Plasma Wild Type",0,0,high,"Wang et al. (2021)
+Greaney et al. (2020)
+Greaney et al. (2021)"
+Q493D,RBM,mAb REGN10933,0,0,lower,Starr et al. (2020)
+Q493F,RBM,mAb REGN10933,0,0,lower,Starr et al. (2020)
+Q493W,RBM,mAb REGN10933,0,0,lower,Starr et al. (2020)
+Q493Y,RBM,mAb REGN10933,0,0,lower,Starr et al. (2020)
+S494D,RBM,"mAb COVA1-12, mAb COVA2-29",0,0,lower,Rees-Spear et al. (2021)
+S494F,RBM,mAb ADI-56443,0,0,lower,Haslwanter et al
+G496K,RBM,Plasma Wild Type,0,0,lower,Greaney et al. (2021)
+P499C,RBM,"mAb REGN10987, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+P499E,RBM,"mAb REGN10987, Plasma Wild Type",0,0,high,"Greaney et al. (2021)
+Starr et al. (2020)"
+G504M,RBM,mAb CB6,0,0,lower,Starr et al. (2020)
+Y505S,RBM,mAb ADG-2,0,0,lower,Rappazzo et al. (2021)
+R509M,RBD,mAb ADI-56443,0,0,lower,Haslwanter et al
+G593R,S1_other,mAb A19-61.1,0,0,lower,Wang et al. (2021)
+H69X:V70X,NTD,"mAb P008_015, mAb P008_039, mAb P008_051, mAb P008_052, mAb P008_087, mAb P008_096, mAb P054_003, mAb P054_004, mAb P054_027",0,0,lower,Graham et al. (2021)
+L141X:Y144X,NTD,"mAb 4-18, mAb 4-19, mAb 5-24, mAb Amubarvimab, mAb P008_007, mAb P008_015, mAb P008_018, mAb P008_038, mAb P008_039, mAb P008_047, mAb P008_051, mAb P008_052, mAb P008_060, mAb P008_067, mAb P008_081, mAb P008_087, mAb P008_096, mAb P054_003, mAb P054_004, mAb P054_021, mAb P054_027, Plasma Wild Type",0,0,high,"Ai et al. (2022)
+Graham et al. (2021)"

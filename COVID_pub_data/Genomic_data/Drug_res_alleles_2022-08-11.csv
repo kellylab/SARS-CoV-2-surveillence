@@ -1,0 +1,51 @@
+Gene,Amino acid replacement (polyprotein),Protein,Amino acid replacement (protein),Resistance,Drug,Assay,Detail,Quantification,Note,Cumulative sequences in UK,Sequences over 28 days,Reference
+S,F486V,Spike,F486V,Observed,Ensovibep,Cell,Vero E6,>100,Quantification: Fold change in IC50,79931,26733,Rothenberger (2021)
+ORF1ab,G3278S,Mpro,G15S,Observed,Nirmatrelvir,Binding,recombinant Mpro,4.4 fold,Quantification: Fold change in EC50,7158,8,FDA (2021)
+ORF1ab,D3511E,Mpro,D248E,Observed,Nirmatrelvir,Binding,recombinant Mpro,3.7 fold,Quantification: Fold change in EC50,743,0,FDA (2021)
+ORF1ab,E5194D,nsp12,E802D,Observed,Remdesivir,Cell,Vero E6,6,Quantification: Fold change IC50,38,2,Gandhi et al (2021)
+ORF1ab,E5194D,nsp12,E802D,Observed,Remdesivir,Cell,Live virus - SARS-CoV-2,2.5 - 3.7 fold,Quantification: Fold change IC50. IC50 value strongly influenced by cell line,38,2,Szemiel et al. (2021)
+ORF1ab,E5194D,nsp12,E802D,Observed,Remdesivir,Cell,"HEK293-C34, HiBiT system",7.3,Quantification: Fold change EC50,38,2,Torii et al 2022
+S,F486L,Spike,F486L,Observed,Ensovibep,Cell,Vero E6,>100,Quantification: Fold change in IC50,33,0,Rothenberger (2021)
+ORF1ab,E5188G,nsp12,E796G,Limited,Remdesivir,Cell,"HEK293-C34, HiBiT system",2.6,Quantification: Fold change EC50,22,0,Torii et al 2022
+ORF1ab,E5188G,nsp12,E796G,Limited,Remdesivir,Cell,"HEK293-C34, HiBiT system",2.9,Combination: R10/C779F/E796G. Quantification: Fold change EC50,22,0,Torii et al 2022
+orf1ab,C5191F,nsp12,C799F,Observed,Remdesivir,Cell,A549-hACE2,10.4,"Quantification: Fold change EC50. In combinaiton with V166A, N198S, S759A, C799F. Study uses GS-441524 which is then metabolised to the same product as Remdesivir.",18,0,Stevens et al (2022)
+orf1ab,C5191F,nsp12,C799F,Indicated,Remdesivir,Structural,pre-incorpouration state RdRp,N/A,"located near the 198 motif D, important for NTP incorpouration",18,0,Stevens et al (2022)
+ORF1ab,C5191F,nsp12,C799F,None,Remdesivir,Cell,"HEK293-C34, HiBiT system",1.9,Quantification: Fold change EC50,18,0,Torii et al 2022
+ORF1ab,C5191F,nsp12,C799F,Limited,Remdesivir,Cell,"HEK293-C34, HiBiT system",2.9,Combination: R10/C779F/E796G. Quantification: Fold change EC50,18,0,Torii et al 2022
+ORF1ab,C5191F,nsp12,C799F,Observed,Remdesivir,Cell,"HEK293-C34, HiBiT system",11.5,Combination: R10/C779F. Quantification: Fold change EC50,18,0,Torii et al 2022
+ORF1ab,D4876Y,nsp12,D484Y,Observed,Remdesivir,Clinical,5 day treatment,,Single patient,16,0,Martinoit et al. (2020)
+ORF1ab,D4876Y,nsp12,D484Y,Limited,Remdesivir,Cell,"HEK293-C34, HiBiT system",3.1,Quantification: Fold change EC50,16,0,Torii et al 2022
+ORF1ab,F4872L,nsp12,F480L,Observed,Remdesivir,Cell,Live Virus - SARS-CoV,6 fold,Combination with V557L. Quantification: Fold change EC50. Cost of fitness in absence of drug.,13,0,Agostini et al. (2018)
+ORF1ab,F4872L,nsp12,F480L,Predicted,Remdesivir,Structural In Silico,Protein Isolate,,structural study shows subtle change in binding pocket. (Fig S1C and S1D),13,0,Pruijssers et al. (2020)
+ORF1ab,F4872L,nsp12,F480L,None,Remdesivir,Cell,"HEK293-C34, HiBiT system",1.5,Quantification: Fold change EC50,13,0,Torii et al 2022
+ORF1ab,F4872L,nsp12,F480L,Limited,Remdesivir,Cell,"HEK293-C34, HiBiT system",3.8,Combination: F480L/V557L. Quantification: Fold change EC51,13,0,Torii et al 2022
+ORF1ab,S3407A,Mpro,S144A,Observed,Nirmatrelvir,Binding,recombinant Mpro,91.9 fold,Quantification: Fold change in EC50,8,0,FDA (2021)
+ORF1ab,V4949L,nsp12,V557L,Observed,Remdesivir,Cell,Live Virus - SARS-CoV,6 fold,Combination with F480L. Quantification: Fold change EC50. Cost of fitness in absence of drug.,7,0,Agostini et al. (2018)
+ORF1ab,V4949L,nsp12,V557L,Predicted,Remdesivir,Structural In Silico,Protein Isolate,,structural study shows shift in template base and incoming NTP. (Fig S1A and S1B),7,0,Pruijssers et al. (2020)
+ORF1ab,V4949L,nsp12,V557L,Observed,Remdesivir,Transcription,Protein Isolate,5.7 fold,Quantification: UTP conc required 0.7 microM vs 4 microM WT,7,0,Tchesnokov et al. (2020)
+ORF1ab,V4949L,nsp12,V557L,Limited,Remdesivir,Cell,"HEK293-C34, HiBiT system",3.8,Combination: F480L/V557L. Quantification: Fold change EC50,7,0,Torii et al 2022
+ORF1ab,E5194A,nsp12,E802A,Observed,Remdesivir,Cell,Vero E6,3.9,Quantification: Fold change IC50,6,0,Gandhi et al (2021)
+ORF1ab,E5194A,nsp12,E802A,Observed,Remdesivir,Cell,Live virus - SARS-CoV-2,2.1 fold,Quantification: Fold change IC50. IC50 value strongly influenced by cell line,6,0,Szemiel et al. (2021)
+ORF1ab,Q3452K,Mpro,Q189K,Observed,Nirmatrelvir,Binding,recombinant Mpro,65.4 fold,Quantification: Fold change in EC50,5,0,FDA (2021)
+ORF1ab,T3398S,Mpro,T135S,Observed,Nirmatrelvir,Binding,recombinant Mpro,3.5 fold,Quantification: Fold change in EC50,4,0,FDA (2021)
+ORF1ab,H3435Y,Mpro,H172Y,Observed,Nirmatrelvir,Binding,recombinant Mpro,233 fold,Quantification: Fold change in EC50,1,0,FDA (2021)
+ORF1ab,E3429A,Mpro,E166A,Observed,Nirmatrelvir,Binding,recombinant Mpro,33.4 fold,Quantification: Fold change in EC50,1,0,FDA (2021)
+orf1ab,V5184I,nsp12,V792I,Observed,Remdesivir,Cell,A549-hACE2,2.6,Quantification: Fold change EC50. Study uses GS-441524 which is then metabolised to the same product as Remdesivir.,0,0,Stevens et al (2022)
+orf1ab,V5184I,nsp12,V792I,Observed,Remdesivir,Cell,A549-hACE2,8,Quantification: Fold change EC50. In combination with S759A. Study uses GS-441524 which is then metabolised to the same product as Remdesivir.,0,0,Stevens et al (2022)
+orf1ab,S5151A,nsp12,S759A,Observed,Remdesivir,Cell,A549-hACE2,8,Quantification: Fold change EC50. In combination with V792I. Study uses GS-441524 which is then metabolised to the same product as Remdesivir.,0,0,Stevens et al (2022)
+orf1ab,C5191R,nsp12,C799R,Observed,Remdesivir,Cell,A549-hACE2,2.7,Quantification: Fold change EC50. Study uses GS-441524 which is then metabolised to the same product as Remdesivir.,0,0,Stevens et al (2022)
+orf1ab,V4558A,nsp12,V166A,Observed,Remdesivir,Cell,A549-hACE2,10.4,"Quantification: Fold change EC50. In combinaiton with V166A, N198S, S759A, C799F. Study uses GS-441524 which is then metabolised to the same product as Remdesivir.",0,0,Stevens et al (2022)
+orf1ab,N4590S,nsp12,N198S,Observed,Remdesivir,Cell,A549-hACE2,10.4,"Quantification: Fold change EC50. In combinaiton with V166A, N198S, S759A, C799F. Study uses GS-441524 which is then metabolised to the same product as Remdesivir.",0,0,Stevens et al (2022)
+orf1ab,S5151A,nsp12,S759A,Observed,Remdesivir,Cell,A549-hACE2,10.4,"Quantification: Fold change EC50. In combinaiton with V166A, N198S, S759A, C799F. Study uses GS-441524 which is then metabolised to the same product as Remdesivir.",0,0,Stevens et al (2022)
+orf1ab,S5151A,nsp12,S759A,Indicated,Remdesivir,Structural,pre-incorpouration state RdRp,N/A,"located in the RdRp catalytic S759DD motif C, in close proximity to the incoming NTP",0,0,Stevens et al (2022)
+orf1ab,V4558A,nsp12,V116A,Indicated,Remdesivir,Structural,pre-incorpouration state RdRp,N/A,"located near the 198 motif D, important for NTP incorpouration",0,0,Stevens et al (2022)
+orf1ab,V5184I,nsp12,V792I,Indicated,Remdesivir,Structural,pre-incorpouration state RdRp,N/A,"located near the 198 motif D, important for NTP incorpouration",0,0,Stevens et al (2022)
+orf1ab,C5191R,nsp12,C799R,Indicated,Remdesivir,Structural,pre-incorpouration state RdRp,N/A,"located near the 198 motif D, important for NTP incorpouration",0,0,Stevens et al (2022)
+ORF1ab,S5253G,nsp12,S861G,Observed,Remdesivir,Transcription,Protein Isolate,29.7 fold,"Quantification: Percentage full transcription - 86% 861G, 2.9% 861S (Fig1. B)",0,0,Tchesnokov et al. (2020)
+ORF1ab,S5253A,nsp12,S861A,Observed,Remdesivir,Transcription,Protein Isolate,2.8 fold,"Quantification: Percentage full transcription - 8.2% 861A, 2.9% 861S (Fig1. B)",0,0,Tchesnokov et al. (2020)
+ORF1ab,R44020,nsp12,R10,None,Remdesivir,Cell,"HEK293-C34, HiBiT system",2.9,Combination: R10/C779F/E796G. Quantification: Fold change EC50,0,0,Torii et al 2022
+ORF1ab,R44020,nsp12,R10,Observed,Remdesivir,Cell,"HEK293-C34, HiBiT system",11.5,Combination: R10/C779F. Quantification: Fold change EC50,0,0,Torii et al 2022
+ORF1ab,H3427N,Mpro,H164N,Observed,Nirmatrelvir,Binding,recombinant Mpro,6.4 fold,Quantification: Fold change in EC50,0,0,FDA (2021)
+ORF1ab,Y3317A,Mpro,Y54A,Observed,Nirmatrelvir,Binding,recombinant Mpro,23.6 fold,Quantification: Fold change in EC50,0,0,FDA (2021)
+ORF1ab,F3403A,Mpro,F140A,Observed,Nirmatrelvir,Binding,recombinant Mpro,39.0 fold,Quantification: Fold change in EC50,0,0,FDA (2021)
+S,N234Q,Spike,N234Q,Observed,Ensovibep,Cell,Vero E6,,,,,
