@@ -1,0 +1,6 @@
+Validating schema of 'results/custom-build/nt_muts.json'...
+Validating schema of 'results/custom-build/aa_muts.json'...
+WARNING in augur.clades: sequences at the root node have not been specified for {S, ORF3a, E, ORF9b, ORF1b, N, ORF8, ORF1a, M, ORF6, ORF7b, ORF7a}, even though mutations were observed. Clades which are annotated using bases/codons present at the root of the tree may not be correctly inferred.
+Clade membership stored on nodes → <node_name> → clade_membership
+Clade labels stored on branches → <node_name> → labels → clade
+Clades written to results/custom-build/clades.json

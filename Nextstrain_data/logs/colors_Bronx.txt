@@ -1,0 +1,2 @@
+/home/rphorsterphages_gmail_com/ncov/scripts/assign-colors.py:36: DtypeWarning: Columns (57,71) have mixed types. Specify dtype option on import or set low_memory=False.
+  metadata = pd.read_csv(args.metadata, delimiter='\t')

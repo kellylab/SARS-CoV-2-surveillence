@@ -1,0 +1,157 @@
+WARNING: supplied genes don't match the annotation
+the following features are in the annotation by not supplied as genes: {'nuc'}
+the following features are in the supplied as genes but not the annotation: set()
+
+0.00	-TreeAnc: set-up
+
+9.69	-SequenceData: loaded alignment.
+
+9.69	-SeqData: making compressed alignment...
+
+18.66	-SequenceData: constructed compressed alignment...
+
+21.23	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+21.23	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+6.52	-SequenceData: loaded alignment.
+
+6.53	-SeqData: making compressed alignment...
+
+11.85	-SequenceData: constructed compressed alignment...
+
+13.58	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+13.58	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+4.61	-SequenceData: loaded alignment.
+
+4.62	-SeqData: making compressed alignment...
+
+7.32	-SequenceData: constructed compressed alignment...
+
+8.31	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+8.31	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+3.09	-SequenceData: loaded alignment.
+
+3.10	-SeqData: making compressed alignment...
+
+3.67	-SequenceData: constructed compressed alignment...
+
+4.13	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+4.13	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+2.73	-SequenceData: loaded alignment.
+
+2.74	-SeqData: making compressed alignment...
+
+2.89	-SequenceData: constructed compressed alignment...
+
+3.27	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+3.27	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+2.85	-SequenceData: loaded alignment.
+
+2.86	-SeqData: making compressed alignment...
+
+3.31	-SequenceData: constructed compressed alignment...
+
+3.75	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+3.75	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+2.55	-SequenceData: loaded alignment.
+
+2.56	-SeqData: making compressed alignment...
+
+2.69	-SequenceData: constructed compressed alignment...
+
+3.05	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+3.05	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+2.66	-SequenceData: loaded alignment.
+
+2.66	-SeqData: making compressed alignment...
+
+2.91	-SequenceData: constructed compressed alignment...
+
+3.29	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+3.29	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+2.59	-SequenceData: loaded alignment.
+
+2.60	-SeqData: making compressed alignment...
+
+2.69	-SequenceData: constructed compressed alignment...
+
+3.04	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+3.04	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+2.71	-SequenceData: loaded alignment.
+
+2.71	-SeqData: making compressed alignment...
+
+2.96	-SequenceData: constructed compressed alignment...
+
+3.37	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+3.37	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+3.43	-SequenceData: loaded alignment.
+
+3.44	-SeqData: making compressed alignment...
+
+4.29	-SequenceData: constructed compressed alignment...
+4.41	---**WARNING: Number of tips in tree (8493) differs from number of
+    	   sequences in alignment (8491)**
+
+4.47	***WARNING: TreeAnc._check_alignment_tree_gtr_consistency: NO SEQUENCE FOR
+    	LEAF: 'Estonia/Cov7254/2020'
+
+4.56	***WARNING: TreeAnc._check_alignment_tree_gtr_consistency: NO SEQUENCE FOR
+    	LEAF: 'CHN/CS-feng/2021'
+
+4.65	***WARNING: TreeAnc: 2 nodes don't have a matching sequence in the
+    	alignment. POSSIBLE ERROR.
+
+5.01	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+5.01	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+2.75	-SequenceData: loaded alignment.
+
+2.76	-SeqData: making compressed alignment...
+
+2.97	-SequenceData: constructed compressed alignment...
+3.08	---**WARNING: Number of tips in tree (8493) differs from number of
+    	   sequences in alignment (8491)**
+
+3.14	***WARNING: TreeAnc._check_alignment_tree_gtr_consistency: NO SEQUENCE FOR
+    	LEAF: 'Estonia/Cov7254/2020'
+
+3.22	***WARNING: TreeAnc._check_alignment_tree_gtr_consistency: NO SEQUENCE FOR
+    	LEAF: 'CHN/CS-feng/2021'
+
+3.32	***WARNING: TreeAnc: 2 nodes don't have a matching sequence in the
+    	alignment. POSSIBLE ERROR.
+
+3.51	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+3.51	--TreeAnc._ml_anc_joint: type of reconstruction: Joint

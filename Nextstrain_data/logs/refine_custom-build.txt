@@ -1,0 +1,33 @@
+augur refine is using TreeTime version 0.10.1
+
+24.82	TreeTime.reroot: with method or node: Wuhan-Hu-1/2019
+
+25.95	TreeTime.reroot: with method or node: Wuhan-Hu-1/2019
+
+70.14	TreeTime.reroot: with method or node: Wuhan-Hu-1/2019
+
+95.22	###TreeTime.run: INITIAL ROUND
+
+125.18	TreeTime.reroot: with method or node: Wuhan-Hu-1/2019
+
+125.92	###TreeTime.run: rerunning timetree after rerooting
+
+167.57	###TreeTime.run: ITERATION 1 out of 2 iterations
+
+171.33	DEPRECATION WARNING. TreeTime.resolve_polytomies: You are resolving
+      	polytomies using the old 'greedy' mode. This is not well suited for large
+      	polytomies. Stochastic resolution will become the default in future
+      	versions. To switch now, rerun with the flag `--stochastic-resolve`. To
+      	keep using the greedy method in the future, run with --`greedy-resolve`
+
+262.34	###TreeTime.run: ITERATION 2 out of 2 iterations
+
+481.92	###TreeTime.run: FINAL ROUND - confidence estimation via marginal
+      	reconstruction
+
+Inferred a time resolved phylogeny using TreeTime:
+	Sagulenko et al. TreeTime: Maximum-likelihood phylodynamic analysis
+	Virus Evolution, vol 4, https://academic.oup.com/ve/article/4/1/vex042/4794731
+
+updated tree written to results/custom-build/tree.nwk
+node attributes written to results/custom-build/branch_lengths.json

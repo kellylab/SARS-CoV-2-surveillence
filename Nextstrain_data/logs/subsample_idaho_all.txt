@@ -1,0 +1,4 @@
+2 strains were dropped during filtering
+	2 of these were dropped because they were in defaults/exclude.txt
+	1 strains were added back because they were in defaults/include.txt
+6937 strains passed all filters

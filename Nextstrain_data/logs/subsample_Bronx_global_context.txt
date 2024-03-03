@@ -1,0 +1,6 @@
+6538 strains were dropped during filtering
+	2 of these were dropped because they were in defaults/exclude.txt
+	6536 of these were filtered out by the query: "(custom_data != 'yes') & (country != 'USA')"
+	1 strains were added back because they were in defaults/include.txt
+	1 of these were dropped because of subsampling criteria
+3039 strains passed all filters

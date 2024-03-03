@@ -1,0 +1,4 @@
+6787 strains were dropped during filtering
+	9577 of these were dropped by `--exclude-all`
+	2790 strains were added back because they were in results/Bronx/sample-custom_sample.txt
+2790 strains passed all filters

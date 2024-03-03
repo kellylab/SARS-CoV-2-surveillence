@@ -1,0 +1,4 @@
+10 strains were dropped during filtering
+	6939 of these were dropped by `--exclude-all`
+	6937 strains were added back because they were in results/idaho/sample-all.txt
+6929 strains passed all filters

@@ -1,0 +1,2 @@
+/usr/local/lib/python3.10/site-packages/pandas/core/series.py:893: RuntimeWarning: invalid value encountered in cast
+  return np.asarray(self._values, dtype)

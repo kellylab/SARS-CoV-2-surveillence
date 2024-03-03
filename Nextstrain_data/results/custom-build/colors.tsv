@@ -1,0 +1,278 @@
+location	Gulf Coast Alaska	#403CC5
+location	Southwest Alaska	#4067CF
+location	King County WA	#4A8BC3
+location	Yakima County	#5AA4A9
+location	San Diego County	#6FB488
+location	Maricopa County AZ	#8BBB69
+location	Pima County	#A9BD53
+location	Cleveland County OK	#C7B944
+location	Limestone County AL	#DDA93C
+location	Shelby County TN	#E68A35
+location	Bronx County	#E35C2C
+location	New York City	#DB2823
+
+division	Mexico	#5E1D9D
+division	Alaska	#4E20AC
+division	Washington	#472DB8
+division	California	#4039C4
+division	Nevada	#3F48C9
+division	Utah	#3E58CF
+division	Arizona	#4066CF
+division	New Mexico	#4375CD
+division	Colorado	#4682C9
+division	North Dakota	#4B8DC2
+division	South Dakota	#5097BA
+division	Texas	#569FAF
+division	USA	#5CA7A5
+division	Oklahoma	#64AD99
+division	Minnesota	#6CB28D
+division	Iowa	#75B581
+division	Louisiana	#7FB976
+division	Arkansas	#89BB6B
+division	Missouri	#93BD62
+division	Mississippi	#9EBE59
+division	Illinois	#A9BD53
+division	Alabama	#B4BD4C
+division	Tennessee	#BFBB48
+division	Indiana	#C9B843
+division	Michigan	#D1B340
+division	Georgia	#D9AD3D
+division	Florida	#DFA53B
+division	North Carolina	#E39B39
+division	Virginia	#E68F36
+division	Pennsylvania	#E68133
+division	Maryland	#E67231
+division	New Jersey	#E35F2D
+division	New York	#E04D29
+division	Connecticut	#DE3B26
+division	Massachusetts	#DB2823
+
+country	Mexico	#529AB6
+country	USA	#AABD52
+
+region	North America	#4C90C0
+
+recency	Older	#447CCD
+recency	One month ago	#5EA9A1
+recency	One week ago	#8ABB6A
+recency	3-7 days ago	#BEBB48
+recency	1-2 days ago	#E29E39
+recency	New	#E2562B
+
+emerging_lineage	BQ.1.1	#4068CF
+emerging_lineage	BA.2.3.20	#5098B9
+emerging_lineage	BN.1	#6CB28C
+emerging_lineage	BM.1.1	#94BD62
+emerging_lineage	BA.2.75.2	#BFBB47
+emerging_lineage	BA.5.2.23	#DFA53B
+emerging_lineage	BS.1	#E67131
+emerging_lineage	XBC	#DB2823
+
+pango_lineage	A	#5E1D9D
+pango_lineage	A.1	#5B1D9F
+pango_lineage	A.2.5	#581EA2
+pango_lineage	A.2.5.2	#551EA5
+pango_lineage	A.23.1	#521EA7
+pango_lineage	A.28	#4F1EAA
+pango_lineage	B	#4E20AC
+pango_lineage	B.1	#4D22AE
+pango_lineage	B.1.1	#4C24B0
+pango_lineage	B.1.1.1	#4B26B2
+pango_lineage	C.1	#4A28B4
+pango_lineage	C.14	#482AB5
+pango_lineage	C.23	#472CB7
+pango_lineage	C.36	#462EB9
+pango_lineage	C.36.3	#4530BB
+pango_lineage	C.36.3.1	#4433BD
+pango_lineage	C.37	#4335BF
+pango_lineage	B.1.1.7	#4237C1
+pango_lineage	B.1.1.8	#4039C3
+pango_lineage	B.1.1.25	#403BC5
+pango_lineage	B.1.1.28	#403DC6
+pango_lineage	P.1	#4040C6
+pango_lineage	P.1.10	#3F43C7
+pango_lineage	P.1.13	#3F45C8
+pango_lineage	P.1.15	#3F48C9
+pango_lineage	P.1.17	#3F4ACA
+pango_lineage	P.2	#3F4DCB
+pango_lineage	P.3	#3F4FCC
+pango_lineage	B.1.1.39	#3F52CD
+pango_lineage	B.1.1.48	#3F54CD
+pango_lineage	B.1.1.61	#3E57CE
+pango_lineage	B.1.1.98	#3E5ACF
+pango_lineage	B.1.1.159	#3E5CD0
+pango_lineage	B.1.1.192	#3F5FD0
+pango_lineage	B.1.1.200	#3F61D0
+pango_lineage	B.1.1.207	#3F63CF
+pango_lineage	B.1.1.222	#4066CF
+pango_lineage	B.1.1.225	#4068CF
+pango_lineage	B.1.1.231	#416ACF
+pango_lineage	B.1.1.265	#416DCE
+pango_lineage	B.1.1.306	#426FCE
+pango_lineage	B.1.1.316	#4271CE
+pango_lineage	R.1	#4274CE
+pango_lineage	B.1.1.318	#4376CD
+pango_lineage	B.1.1.329	#4378CD
+pango_lineage	B.1.1.376	#447BCD
+pango_lineage	B.1.1.411	#447DCC
+pango_lineage	B.1.1.420	#457FCB
+pango_lineage	B.1.1.434	#4681CA
+pango_lineage	B.1.1.461	#4683C9
+pango_lineage	B.1.1.467	#4784C7
+pango_lineage	B.1.1.486	#4886C6
+pango_lineage	B.1.1.519	#4988C5
+pango_lineage	BA.1	#498AC4
+pango_lineage	BA.1.1	#4A8CC3
+pango_lineage	BA.1.1.14	#4B8EC1
+pango_lineage	BA.1.1.15	#4C90C0
+pango_lineage	BA.1.1.18	#4C91BF
+pango_lineage	BA.1.13	#4D93BE
+pango_lineage	BA.1.15	#4E95BD
+pango_lineage	BA.1.17	#4F97BB
+pango_lineage	BA.1.17.2	#5098B9
+pango_lineage	BA.1.18	#5199B7
+pango_lineage	BA.1.23	#529AB6
+pango_lineage	BA.2	#539CB4
+pango_lineage	BA.2.3	#549DB2
+pango_lineage	BA.2.9	#559EB0
+pango_lineage	BA.2.12.1	#56A0AF
+pango_lineage	BA.2.18	#57A1AD
+pango_lineage	BA.2.26	#58A2AB
+pango_lineage	BA.2.30	#59A4A9
+pango_lineage	BA.2.48	#5AA5A8
+pango_lineage	BA.2.65	#5BA6A6
+pango_lineage	BA.4.1	#5CA8A4
+pango_lineage	BA.4.1.1	#5EA8A2
+pango_lineage	BA.4.2	#5FA9A0
+pango_lineage	BA.4.6	#60AA9E
+pango_lineage	BA.5.1	#62AB9C
+pango_lineage	BA.5.1.1	#63AC9A
+pango_lineage	BA.5.1.5	#64AD98
+pango_lineage	BA.5.1.6	#66AE96
+pango_lineage	BA.5.2	#67AE94
+pango_lineage	BA.5.2.1	#68AF92
+pango_lineage	BF.5	#69B090
+pango_lineage	BF.7	#6BB18E
+pango_lineage	BF.10	#6CB28C
+pango_lineage	BE.1	#6DB38A
+pango_lineage	BE.1.1	#6FB388
+pango_lineage	BE.3	#70B486
+pango_lineage	BA.5.5	#72B485
+pango_lineage	BA.5.6	#74B583
+pango_lineage	B.1.2	#75B681
+pango_lineage	B.1.36	#77B67F
+pango_lineage	B.1.36.10	#78B77D
+pango_lineage	B.1.108	#7AB77B
+pango_lineage	B.1.110.3	#7BB879
+pango_lineage	B.1.111	#7DB877
+pango_lineage	B.1.160	#7FB976
+pango_lineage	B.1.177	#80B974
+pango_lineage	B.1.177.86	#82BA72
+pango_lineage	B.1.232	#83BA70
+pango_lineage	B.1.234	#85BA6E
+pango_lineage	B.1.240	#87BB6D
+pango_lineage	B.1.241	#89BB6B
+pango_lineage	B.1.243	#8ABB6A
+pango_lineage	B.1.258	#8CBB68
+pango_lineage	B.1.265	#8EBC67
+pango_lineage	B.1.280	#90BC65
+pango_lineage	B.1.293	#92BC64
+pango_lineage	B.1.298	#93BD62
+pango_lineage	B.1.306	#95BD61
+pango_lineage	B.1.311	#97BD5F
+pango_lineage	B.1.319	#99BD5D
+pango_lineage	B.1.323	#9ABE5C
+pango_lineage	B.1.332	#9CBE5B
+pango_lineage	B.1.335	#9EBE5A
+pango_lineage	B.1.340	#A0BE58
+pango_lineage	B.1.349	#A2BE57
+pango_lineage	B.1.351	#A4BE56
+pango_lineage	B.1.356	#A5BE55
+pango_lineage	B.1.361	#A7BE54
+pango_lineage	B.1.369	#A9BD53
+pango_lineage	B.1.375	#ABBD52
+pango_lineage	B.1.383	#ADBD51
+pango_lineage	B.1.396	#AFBD4F
+pango_lineage	B.1.400	#B0BD4E
+pango_lineage	B.1.409	#B2BD4D
+pango_lineage	B.1.427	#B4BD4C
+pango_lineage	B.1.429	#B6BD4B
+pango_lineage	B.1.433	#B7BC4B
+pango_lineage	B.1.448	#B9BC4A
+pango_lineage	B.1.451	#BBBC49
+pango_lineage	B.1.478	#BCBB49
+pango_lineage	B.1.503	#BEBB48
+pango_lineage	B.1.507	#C0BA47
+pango_lineage	B.1.509	#C2BA46
+pango_lineage	B.1.517	#C3BA46
+pango_lineage	B.1.521	#C5B945
+pango_lineage	B.1.525	#C7B944
+pango_lineage	B.1.526	#C8B844
+pango_lineage	B.1.539	#CAB843
+pango_lineage	B.1.543	#CBB742
+pango_lineage	B.1.544	#CDB642
+pango_lineage	B.1.561	#CEB541
+pango_lineage	B.1.564	#CFB441
+pango_lineage	B.1.565	#D1B440
+pango_lineage	B.1.575	#D2B340
+pango_lineage	B.1.582	#D3B240
+pango_lineage	B.1.585	#D4B13F
+pango_lineage	B.1.588	#D6B03F
+pango_lineage	B.1.595	#D7AF3E
+pango_lineage	B.1.595.1	#D8AE3E
+pango_lineage	B.1.596	#DAAD3D
+pango_lineage	B.1.601	#DBAC3D
+pango_lineage	B.1.602	#DCAB3C
+pango_lineage	B.1.603	#DDA93C
+pango_lineage	B.1.604	#DEA83C
+pango_lineage	B.1.609	#DEA63B
+pango_lineage	B.1.617	#DFA43B
+pango_lineage	B.1.617.1	#E0A33A
+pango_lineage	B.1.617.2	#E0A13A
+pango_lineage	AY.3	#E19F3A
+pango_lineage	AY.3.1	#E29E39
+pango_lineage	AY.4	#E39C39
+pango_lineage	AY.5	#E39A39
+pango_lineage	AY.14	#E49938
+pango_lineage	AY.20	#E59738
+pango_lineage	AY.25	#E59537
+pango_lineage	AY.25.1	#E69337
+pango_lineage	AY.26	#E69137
+pango_lineage	AY.35	#E68F36
+pango_lineage	AY.36	#E68C36
+pango_lineage	AY.37	#E68A35
+pango_lineage	AY.39	#E68735
+pango_lineage	AY.42	#E68534
+pango_lineage	AY.43	#E68234
+pango_lineage	AY.44	#E68033
+pango_lineage	AY.45	#E67E33
+pango_lineage	AY.46.4	#E67B32
+pango_lineage	AY.47	#E67932
+pango_lineage	AY.54	#E67631
+pango_lineage	AY.75	#E67431
+pango_lineage	AY.100	#E67130
+pango_lineage	AY.103	#E56E30
+pango_lineage	AY.107	#E56B2F
+pango_lineage	AY.110	#E4682F
+pango_lineage	AY.113	#E4652E
+pango_lineage	AY.117	#E3622D
+pango_lineage	AY.118	#E35F2D
+pango_lineage	AY.119	#E35C2C
+pango_lineage	AY.119.2	#E2592C
+pango_lineage	AY.120.2	#E2562B
+pango_lineage	AY.121	#E1532A
+pango_lineage	AY.122	#E1502A
+pango_lineage	B.1.621	#E04D29
+pango_lineage	B.1.621.1	#E04A29
+pango_lineage	B.1.623	#DF4728
+pango_lineage	B.1.625	#DF4328
+pango_lineage	B.1.627	#DF4027
+pango_lineage	B.1.630	#DE3D27
+pango_lineage	B.1.637	#DE3A26
+pango_lineage	B.1.637.1	#DD3726
+pango_lineage	B.1.639	#DD3425
+pango_lineage	B.28	#DD3124
+pango_lineage	B.37	#DC2E24
+pango_lineage	B.40	#DC2B23
+pango_lineage	XB	#DB2823
+

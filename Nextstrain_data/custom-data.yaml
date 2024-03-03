@@ -1,0 +1,29 @@
+inputs:
+  - name: reference_data
+    metadata: https://data.nextstrain.org/files/ncov/open/reference/metadata.tsv.xz
+    sequences: https://data.nextstrain.org/files/ncov/open/reference/sequences.fasta.xz
+  - name: custom_data
+    metadata: data/1674307559288.metadata.tsv
+    sequences: data/1674307559288.sequences.fasta
+
+# GenBank data includes "Wuhan-Hu-1/2019" which we use as the root for this build.
+refine:
+  root: "Wuhan-Hu-1/2019"
+
+builds:
+  custom-build:
+    title: "Bronx SARS-COV-2 Evolution"
+    region: North America
+    country: USA
+    division: New York
+    
+logistic_growth:
+  min_tips: 0
+  max_frequency: 1.0
+  min_frequency: 0
+    
+export:
+  color-by-metadata: 'Nextstrain_clade'
+  colors: "defaults/Clade_coloring.tsv"
+  panels: tree
+

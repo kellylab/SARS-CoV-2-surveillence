@@ -1,0 +1,8 @@
+Note: You did not provide a sequence index, so Augur will generate one. You can generate your own index ahead of time with `augur index` and pass it with `augur filter --sequence-index`.
+490 strains were dropped during filtering
+	455 of these were dropped because they were in results/custom-build/excluded_by_diagnostics.txt
+	17 of these were dropped because of 'division=USA'
+	15 of these were filtered out by the query: "(`reference_data` == 'yes' & _length >= 27000) | (`custom_data` == 'yes' & _length >= 27000)"
+	3 of these were dropped because of their ambiguous date in any
+	1 strains were added back because they were in defaults/include.txt
+2587 strains passed all filters

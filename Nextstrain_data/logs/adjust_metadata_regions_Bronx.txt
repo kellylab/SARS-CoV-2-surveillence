@@ -1,0 +1,3 @@
+/home/rphorsterphages_gmail_com/ncov/scripts/adjust_regional_meta.py:25: DtypeWarning: Columns (56,70) have mixed types. Specify dtype option on import or set low_memory=False.
+  metadata = pd.read_csv(args.metadata, delimiter='\t')
+Adjusting metadata for focal region North America

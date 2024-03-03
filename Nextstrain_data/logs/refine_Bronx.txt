@@ -1,0 +1,35 @@
+/home/rphorsterphages_gmail_com/.nextstrain/runtimes/conda/env/lib/python3.10/site-packages/scipy/optimize/_minimize.py:892: RuntimeWarning: Method 'bounded' does not support relative tolerance in x; defaulting to absolute tolerance.
+  warn("Method 'bounded' does not support relative tolerance in x; "
+augur refine is using TreeTime version 0.9.4
+
+134.07	TreeTime.reroot: with method or node: Wuhan-Hu-1/2019
+
+157.94	TreeTime.reroot: with method or node: Wuhan-Hu-1/2019
+
+181.63	WARNING: Previous versions of TreeTime (<0.7.0) RECONSTRUCTED sequences
+      	of tips at positions with AMBIGUOUS bases. This resulted in unexpected
+      	behavior is some cases and is no longer done by default. If you want to
+      	replace those ambiguous sites with their most likely state, rerun with
+      	`reconstruct_tip_states=True` or `--reconstruct-tip-states`.
+
+766.27	TreeTime.reroot: with method or node: Wuhan-Hu-1/2019
+
+1099.84	###TreeTime.run: INITIAL ROUND
+
+1389.02	TreeTime.reroot: with method or node: Wuhan-Hu-1/2019
+
+1396.43	###TreeTime.run: rerunning timetree after rerooting
+
+1877.26	###TreeTime.run: ITERATION 1 out of 2 iterations
+
+2791.68	###TreeTime.run: ITERATION 2 out of 2 iterations
+
+5132.98	###TreeTime.run: FINAL ROUND - confidence estimation via marginal
+       	reconstruction
+
+Inferred a time resolved phylogeny using TreeTime:
+	Sagulenko et al. TreeTime: Maximum-likelihood phylodynamic analysis
+	Virus Evolution, vol 4, https://academic.oup.com/ve/article/4/1/vex042/4794731
+
+updated tree written to results/Bronx/tree.nwk
+node attributes written to results/Bronx/branch_lengths.json

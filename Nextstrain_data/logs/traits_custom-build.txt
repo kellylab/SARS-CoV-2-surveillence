@@ -1,0 +1,9 @@
+augur traits is using TreeTime version 0.10.1
+Assigned discrete traits to 2587 out of 2587 taxa.
+
+
+Inferred ancestral states of discrete character using TreeTime:
+	Sagulenko et al. TreeTime: Maximum-likelihood phylodynamic analysis
+	Virus Evolution, vol 4, https://academic.oup.com/ve/article/4/1/vex042/4794731
+
+results written to results/custom-build/traits.json

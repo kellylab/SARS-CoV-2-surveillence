@@ -1,0 +1,4 @@
+9 strains were dropped during filtering
+	3086 of these were dropped by `--exclude-all`
+	3084 strains were added back because they were in results/custom-build/sample-all.txt
+3077 strains passed all filters

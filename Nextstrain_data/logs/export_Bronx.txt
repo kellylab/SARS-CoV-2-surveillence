@@ -1,0 +1,35 @@
+WARNING: You didn't provide information on who is maintaining this analysis.
+
+WARNING: [config file] Trait 'recency' is missing type information. We've guessed 'categorical'.
+
+WARNING: [config file] Trait 'emerging_lineage' is missing type information. We've guessed 'categorical'.
+
+WARNING: [config file] Trait 'rbd_level' is missing type information. We've guessed 'continuous'.
+
+WARNING: [config file] Trait 'logistic_growth' is missing type information. We've guessed 'continuous'.
+
+WARNING: [config file] Trait 'mutational_fitness' is missing type information. We've guessed 'continuous'.
+
+WARNING: [config file] Trait 'current_frequency' is missing type information. We've guessed 'continuous'.
+
+WARNING: [config file] Trait 'S1_mutations' is missing type information. We've guessed 'continuous'.
+
+WARNING: [config file] Trait 'epiweek' is missing type information. We've guessed 'categorical'.
+
+WARNING: These values for trait clade_membership were not specified in the colors file you provided:
+	20a, 19a, 20f, 20e (eu1), 20d, 20g, 20b, 20c, 19b.
+	Auspice will create colors for them.
+
+WARNING: These values for trait emerging_lineage were not specified in the colors file you provided:
+	21d (eta), 20a, 22b (omicron), 19a, 21k (omicron), 21h (mu), 21f (iota), 20f, 21i (delta), 21m (omicron), 20e (eu1), 22e (omicron), 21a (delta), 20d, 22f (omicron), 22c (omicron), 22a (omicron), 20g, 20j (gamma, v3), 20b, 20c, 19b, 20h (beta, v2), 21e (theta), 22d (omicron), 21j (delta), 21l (omicron), 21c (epsilon), 21b (kappa), 20i (alpha, v1), 21g (lambda).
+	Auspice will create colors for them.
+
+Validating schema of 'results/Bronx/nt_muts.json'...
+Validating schema of 'results/Bronx/aa_muts.json'...
+Validating config file ncov-tutorial/auspice-config-custom-data.json against the JSON schema
+Validating schema of 'ncov-tutorial/auspice-config-custom-data.json'...
+Validating produced JSON
+Validating schema of 'results/Bronx/ncov_with_accessions.json'...
+Validating that the JSON is internally consistent...
+Validation of 'results/Bronx/ncov_with_accessions.json' succeeded.
+

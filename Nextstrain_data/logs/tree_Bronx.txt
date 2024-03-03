@@ -1,0 +1,8 @@
+7 masking sites read from defaults/sites_ignored_for_tree_topology.txt
+Building a tree via:
+	iqtree -ntmax 8 -s results/Bronx/masked_filtered-delim.fasta -m GTR -ninit 2 -n 2 -me 0.05 -nt AUTO -redo -ninit 10 -n 4 > results/Bronx/masked_filtered-delim.iqtree.log
+	Nguyen et al: IQ-TREE: A fast and effective stochastic algorithm for estimating maximum likelihood phylogenies.
+	Mol. Biol. Evol., 32:268-274. https://doi.org/10.1093/molbev/msu300
+
+
+Building original tree took 14338.039721250534 seconds

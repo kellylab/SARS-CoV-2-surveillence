@@ -1,0 +1,13 @@
+Validating schema of 'results/custom-build/nt_muts.json'...
+Validating schema of 'results/custom-build/aa_muts.json'...
+WARNING in augur.clades: sequences at the root node have not been specified for {ORF6, ORF3a, E, N, ORF1a, ORF7b, ORF8, M, ORF7a, ORF1b, ORF9b, S}, even though mutations were observed. Clades which are annotated using bases/codons present at the root of the tree may not be correctly inferred.
+WARNING in augur.clades: clade 'BS.1' not found in tree!
+WARNING in augur.clades: clade 'BM.1.1' not found in tree!
+WARNING in augur.clades: clade 'BA.2.75.2' not found in tree!
+WARNING in augur.clades: clade 'XBC' not found in tree!
+WARNING in augur.clades: clade 'BA.2.3.20' not found in tree!
+WARNING in augur.clades: clade '22D (Omicron)' not found in tree!
+WARNING in augur.clades: clade 'BA.5.2.23' not found in tree!
+Clade membership stored on nodes → <node_name> → clade_membership
+Clade labels stored on branches → <node_name> → labels → clade
+Clades written to results/custom-build/temp_emerging_lineages.json

@@ -1,0 +1,4 @@
+Parsed 2 metadata TSVs
+	reference_data (results/sanitized_metadata_reference_data.tsv.xz): 295 strains x 58 columns
+	custom_data (results/sanitized_metadata_custom_data.tsv.xz): 2791 strains x 28 columns
+Combined metadata: 3086 strains x 61 columns
